@@ -1,4 +1,4 @@
-A systems-thinking perspective on individual and collective human behaviour, information systems and social design (Beta version)
+## A systems-thinking perspective on individual and collective human behaviour, information systems and social design (Beta version)
 
 # What? Why? How?
 - This is an effort to put forth content concisely in a way it explains the behaviour of individual human and human social systems, everything in one place. Although content is in progress so information will be added, edited as needed.
