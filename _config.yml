@@ -1,0 +1,6 @@
+theme: minima
+title: Test title
+description: test description
+author: Omkar Killarikar
+plugins:
+  - jekyll-seo-tag
