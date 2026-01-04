@@ -1,6 +1,6 @@
 ---
 title: Weaponisation of Psychology
-nav_order: 1
+nav_order: 99
 ---
 
 # Weaponisation of human psychology.
