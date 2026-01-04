@@ -1,3 +1,8 @@
+---
+title: Home
+nav_order: 1
+---
+
 ## A systems-thinking perspective on individual and collective human behaviour, information systems and social design (Beta version)
 
 # What? Why? How?
