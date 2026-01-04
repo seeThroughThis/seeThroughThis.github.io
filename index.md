@@ -1,9 +1,5 @@
 ## A systems-thinking perspective on individual and collective human behaviour, information systems and social design (Beta version)
 
----
-title: Introduction
-nav_order: 1
----
 # What? Why? How?
 - This is an effort to put forth content concisely in a way it explains the behaviour of individual human and human social systems, everything in one place. Although content is in progress so information will be added, edited as needed.
 - Recommended to use as a manual to be revisited in a loop while contemplating, observing realtime info and studying historical data.
@@ -15,11 +11,6 @@ nav_order: 1
 
 # Human mind architecture
 Exploring components of mind from a functionality point of view and ignore anatomy.
-
----
-title: Reward System
-nav_order: 2
----
 
 ## Reward system
 - This system promotes us taking actions and learn behaviour that leads to benefits and avoid detrimental situations playing an important role in building behavioural model.
