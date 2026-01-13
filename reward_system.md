@@ -13,7 +13,7 @@ nav_order: 2
 - A crucial factor for the behavioural development of children to be able lead mentally, functionally healthy life, as their behavioral model, building balanced self-esteem and confidence comes from accurate environmental feedback. Inaccurate feedbacks malforms cogntive lenses leading to inaccurate information perception which further leads to malformed neural pathways. This cycle quickly bloats bad models in modern info-dense environemnt making it extremely difficult to resolve older malformed pathways especially formed in early age.
 
 <div style="display: flex; align-items: center; gap: 8px;">
-  <div style="position: relative; display: inline-block;">
+  <div style="position: relative; display: inline-flex; align-items: center;">
     
   <span style="
       position: absolute;
@@ -27,14 +27,16 @@ nav_order: 2
       testwa
     </span>
 
-   <img
+  <img
       src="diagrams/bias bloating.svg"
       alt="Bias bloating diagram"
-      style="display: block;"
+      style="display: block; height: auto;"
     >
   </div>
 
-  <em style="line-height: 1;">Bias bloating</em>
+  <em style="display: block; align-self: center;">
+    Bias bloating
+  </em>
 </div>
 
 - It’s crucial that positive acknowledgements/complements and negative acknowledgements/penalties are delivered with high accuracy by environment for respective actions(correct data labelling). Depending on severity and combination type of desynchronisation between behaviour and environmental feedback can lead to a fragmented behavioural model including emotional response, over/under confidence, polarised personality.
