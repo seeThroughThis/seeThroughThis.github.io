@@ -15,18 +15,26 @@ nav_order: 2
 <div style="display: flex; align-items: center; gap: 8px;">
   <div style="position: relative; display: inline-block;">
     
-  <span 
-    style="position: absolute;
+  <span style="
+      position: absolute;
       inset: 0;
       display: flex;
-      align-items:center;
+      align-items: center;
       justify-content: center;
       opacity: 0;
-      pointer-events: none;">testwa</span>
+      pointer-events: none;
+    ">
+      testwa
+    </span>
 
-  <img src="diagrams/bias bloating.svg" alt="Bias bloating diagram">
+   <img
+      src="diagrams/bias bloating.svg"
+      alt="Bias bloating diagram"
+      style="display: block;"
+    >
   </div>
-  <em>Bias bloating</em>
+
+  <em style="line-height: 1;">Bias bloating</em>
 </div>
 
 - It’s crucial that positive acknowledgements/complements and negative acknowledgements/penalties are delivered with high accuracy by environment for respective actions(correct data labelling). Depending on severity and combination type of desynchronisation between behaviour and environmental feedback can lead to a fragmented behavioural model including emotional response, over/under confidence, polarised personality.
