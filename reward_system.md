@@ -12,32 +12,16 @@ nav_order: 2
 - Regular engagement to rewarding activities leads to decreasing the kick and increasing normal level(moving average) level. Now, just ceasing to engage with the activity can lead to feeling low considering new norm while feeling rewarded will require to engage in higher frequency or intensity. This is why people face difficulties reducing social media, gaming time etc. underlining the importance of dopamine detox, intentional boredom to reset baseline level maintaining balanced behaviour and avoiding addiction.
 - A crucial factor for the behavioural development of children to be able lead mentally, functionally healthy life, as their behavioral model, building balanced self-esteem and confidence comes from accurate environmental feedback. Inaccurate feedbacks malforms cogntive lenses leading to inaccurate information perception which further leads to malformed neural pathways. This cycle quickly bloats bad models in modern info-dense environemnt making it extremely difficult to resolve older malformed pathways especially formed in early age.
 
-<div style="display: flex; align-items: center; gap: 8px;">
-  <div style="position: relative; display: inline-flex; align-items: center;">
-    
-  <span style="
-      position: absolute;
-      inset: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      opacity: 0;
-      pointer-events: none;
-    ">
-      testwa
-    </span>
-
-  <img
-      src="diagrams/bias bloating.svg"
-      alt="Bias bloating diagram"
-      style="display: block; height: auto;"
-    >
+<p>
+  <div style="display:flex; justify-content:center;">
+    <div style="display: grid; place-items: center; position: relative;">
+      <span style="opacity:0;grid-area: 1 / 1;">testwa</span>
+      <img style="grid-area: 1 / 1;" src="diagrams/bias bloating.svg"><br>
+    </div>
   </div>
+  <p style="text-align: center; font-style: italic">Bias bloating</p>
+</p>
 
-  <em style="display: block; align-self: center;">
-    Bias bloating
-  </em>
-</div>
 
 - It’s crucial that positive acknowledgements/complements and negative acknowledgements/penalties are delivered with high accuracy by environment for respective actions(correct data labelling). Depending on severity and combination type of desynchronisation between behaviour and environmental feedback can lead to a fragmented behavioural model including emotional response, over/under confidence, polarised personality.
 - This remains important throughout adult life to build advanced behaviour and habits shaped by how social system incentivises the its components. People's behaviour is not just driven by direct feedbacks but also perceived patterns about what behaviour leads to higher rewards, especially by behviour of high rank personalities in social hierarchies where mass observers often fall victim to heuristic pattern learning(shallow copying) e.g. following trends even if economically nonviable.
