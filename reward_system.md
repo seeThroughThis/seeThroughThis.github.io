@@ -6,7 +6,7 @@ nav_order: 2
 # Reward system
 - This system promotes us taking actions and learn behaviour that leads to benefits and avoid detrimental situations playing an important role in building behavioural model.
 - Evolutionary(primary): These reward functions are naturally selected such as sex, social stimuli, eating food etc.
-- Learned(secondary): Includes Making money, social media, video games. These are learned behaviours/skills but evolutionary functions still acts as a basis for them e.g. social media simulates social stimuli, video games include social engagement/competition, probabilistic drops, soft materialism. Learning skills to make money because we can buy necessary things like food, home and more.
+- Learned(secondary): Includes Making money, social media, video games. These are learned behaviours/skills but evolutionary functions still acts as a basis for them e.g. social media simulates social stimuli, video games include social engagement/competition, probabilistic in-game items, soft materialism. Learning skills to make money because we can buy necessary things like food, home and more.
 - Punishments or negative rewards examples include loss of money (non probabilistic way), cold shoulder, breaking law leads to punishments with respective severity, drop in frequency of getting burned while cooking.
 - Feeling good or getting kick comes from dopamine surge from baseline level while negative things lead to dopamine dip from the baseline level making you feel blue.
 - Regular engagement to rewarding activities leads to decreasing the kick and increasing normal level(moving average) level. Now, just ceasing to engage with the activity can lead to feeling low considering new norm while feeling rewarded will require to engage in higher frequency or intensity. This is why people face difficulties reducing social media, gaming time etc. underlining the importance of dopamine detox, intentional boredom to reset baseline level maintaining balanced behaviour and avoiding addiction.
@@ -15,7 +15,7 @@ nav_order: 2
 <p>
   <div style="display:flex; justify-content:center;">
     <div style="display: grid; place-items: center; position: relative;">
-      <span style="opacity:0;grid-area: 1 / 1;">testwa</span>
+      <span style="opacity:0;grid-area: 1 / 1;">Perception driven by semantically relevant existing cognitive lenses/beliefs High quantity semantically aligned information Reinforcing existing beliefs and cognitive lenses</span>
       <img style="grid-area: 1 / 1;" src="diagrams/bias bloating.svg"><br>
     </div>
   </div>

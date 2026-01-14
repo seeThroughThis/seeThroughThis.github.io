@@ -4,3 +4,4 @@ description: test description
 author: Omkar Killarikar
 plugins:
   - jekyll-seo-tag
+color_scheme: dark
