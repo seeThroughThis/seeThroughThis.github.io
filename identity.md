@@ -6,14 +6,14 @@ nav_order: 3
 # Identity
 - This has to be included as a separate component due to its effect, applications from global scale down to personal lives. This explains the evolution of the demographic-territorial state of the world, how it came to be from historical states and possible states where we head in the future.
 - One of the core and most powerful component/bias resulted from natural selection. Also critical from the warfare standpoint. Under its influence humans are capable of assembling together in large populations towards single purpose(constructive, destructive), and compete for resources with other human groups.
-- Identity consists of “**The two traits**”:
+- Identity consists of the “**two traits**”:
   1. Who my people are/which human group I belong to? (Ideally a two-way relationship between a person and community)
   2. What my territory is (Not as a private property but social and with shared responsibility among inhabitants)
 - Throughout the evolution, and even in present-time tribal settings the territory is shared with “my people” i.e. The two traits are near-compulsory mutually inclusive.
 - In fact this is applicable to all social animals(Chimpanzees, Bonobos, Hyenas, Wolves, Lions etc.). In the case of solitary animals everything remains the same except the social collaboration part.
 - As humans started producing a variety of goods and trading, its rewards promoted them to step out of their local identity and form economic integration with other identities easing up the two traits. Obviously, easing up the two traits also leads to putting the guard down against invasive identities in both territorial and socio-economic space.
 - Reversely, if resources are scarce (high economic stress) identity intensifies and makes us engage in biological competition aggressively.
-- In modern times, we have (seemingly) established nation-state system and induce sense of identity in a way that “the two traits” are NOT compulsorily mutually inclusive which can be a positive thing but the presence of lots of other identity variables causes identity confusion in masses and leaving them highly vulnerable against identity crisis and its exploitation.
+- In modern times, we have (seemingly) established nation-state system and induce sense of identity in a way that the “two traits” are NOT compulsorily mutually inclusive which can be a positive thing but the presence of lots of other identity variables causes identity confusion in masses and leaving them highly vulnerable against identity crisis and its exploitation.
 - Identity is constantly exploited through political/economic/violent means worldwide(inter-national, intra-national). And it effectively triggers collective emotional reactions among involved identity(ies).
 - Examples of territorial provocations: Challenging territorial/boundaries status quo, territory partitioning/border redrawing to create new disputes.
 - Examples of non-territorial identity variables used to leverage or exploit: countries/states, communities, sub-communities, ideologies(left, right, capitalism, communism), physical attributes(various skin, hair colours, mono-lid eyes), religions, ethnicities, languages, gender/sexual orientations and recently trending generations (millennial, gen z etc.)
