@@ -5,3 +5,5 @@ author: Omkar Killarikar
 plugins:
   - jekyll-seo-tag
 color_scheme: dark
+ga_tracking: G-8L87470RTE
+ga_tracking_anonymize_ip: true
