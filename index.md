@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Overview
 nav_order: 1
 ---
 
@@ -8,10 +8,22 @@ Beta version
 {: .label .label-yellow }
 
 # What? Why? How?
-- This is an effort to put forth content in a way it comprehensively explains the individual and collective human behaviour entwined with environment, social systems. Also, content is in progress so information will be added, edited as needed.
-- Recommended to use as a manual to be revisited in a loop while contemplating, observing realtime info and studying historical data.
-- Be able to understand working, reshaping the mind and exercising a higher degree of free will(within moral, legal bounds) rather than being subdued by exploitative/manipulative components in environment.
-- Understand the flaws in the current planet-wide system and pushing towards global sustainable social framework that is harmonic in case of safety(territorial, economic, physical, mental) while allowing constructive, colourful chaos(science, arts, sports etc) and space for other beings and their ecosystems to thrive.
-- Try to understand how humans obey and divide. How information and incentives influences social designs.
-- Since we’ll be putting hands in warfare, mentioning that no argument is hinting towards extremism or pseudo-secularism. Most of the political situations are complex, be cautious while looking at the same using any of the provided info.
-- This is in beta — open to refinement, falsification, and extension.
+- This is an effort to put forth content in a way it comprehensively explains the individual and collective human behaviour entwined with environment and social systems.
+- It aims to explore:
+  - How humans obey and divide. How information and incentives influences social structure.
+  - How global system state(with high granularity) evolves over time(socially, culturally, economically, territorially). What potential states may emerge in future and contribute to achieving brighter ones while at it.
+  - Understand the flaws in the current system and pushing towards global sustainable social framework that is harmonic in case of safety(physical/territorial, economic, mental) while allowing constructive, colourful chaos(science, arts, sports etc) and space for other beings and their ecosystems to thrive.
+- This approach integrates existing work across various fields(psychology, information science, systems theory) and extend these perspective wherever necessary.
+- Recommended to use as a living manual to be revisited in a loop while contemplating, observing realtime info and studying historical patterns.
+- Since we’ll discuss warfare of various modes, mentioning that no argument is hinting towards extremism or pseudo-secularism. Most of the political situations are complex, be cautious while looking at the same using any of the provided info.
+- This is in beta and actively in progress— open to refinement, falsification, and extension.
+
+<p>
+  <p style="text-align: center; font-style: italic">High level visualisation of intended scope of work</p>
+  <div style="display:flex; justify-content:center;">
+    <div style="display: grid; place-items: center; position: relative;">
+      <span style="opacity:0;grid-area: 1 / 1;"></span>
+      <img style="grid-area: 1 / 1;" src="diagrams/scope of work.svg"><br>
+    </div>
+  </div>
+</p>
