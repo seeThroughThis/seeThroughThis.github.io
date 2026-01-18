@@ -1,6 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 title: Human among Humans
-description: test description
+description: A systems-thinking perspective on individual and collective human behaviour, information systems and social design
 author: Omkar Killarikar
 plugins:
   - jekyll-seo-tag
