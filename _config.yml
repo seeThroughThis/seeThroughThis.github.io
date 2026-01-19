@@ -7,3 +7,8 @@ plugins:
 color_scheme: dark
 ga_tracking: G-8L87470RTE
 ga_tracking_anonymize_ip: true
+aux_links:
+  "GitHub":
+    - "https://github.com/seeThroughThis/seeThroughThis.github.io"
+
+aux_links_new_tab: true
