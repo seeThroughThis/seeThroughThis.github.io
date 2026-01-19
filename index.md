@@ -7,7 +7,7 @@ nav_order: 1
 Beta version
 {: .label .label-yellow }
 
-# What? Why? How?
+# Overview
 - This is an effort to put forth content in a way it comprehensively explains the individual and collective human behaviour entwined with environment and social systems.
 - It aims to explore:
   - How humans obey and divide. How information and incentives influences social structure.
