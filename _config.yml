@@ -8,7 +8,7 @@ color_scheme: dark
 ga_tracking: G-8L87470RTE
 ga_tracking_anonymize_ip: true
 aux_links:
-  "GitHub":
+  "GitHub repo":
     - "https://github.com/seeThroughThis/seeThroughThis.github.io"
   "LinkedIn":
     - "https://www.linkedin.com/in/omkar-killarikar/"
