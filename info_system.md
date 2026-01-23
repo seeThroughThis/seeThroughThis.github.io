@@ -32,9 +32,3 @@ nav_order: 4
     </div>
   </div>
 </p>
-
-## Notes
-- diagram of information flow
-  - vertical human propogated
-  - horizontal manmade systems
-- modern vs throughout evolution
