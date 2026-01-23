@@ -1,5 +1,5 @@
 ---
-title: Information system
+title: Super Information System
 nav_order: 4
 ---
 
