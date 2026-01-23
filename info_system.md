@@ -16,7 +16,7 @@ nav_order: 4
 - Formation of most of belief system is influences by SIS including cultural beliefs, identity values(Two traits). Human society and SIS continuously interact with each other and co-evolve(<new-tab-link href="https://en.wikipedia.org/wiki/Media_ecology">Media ecology</new-tab-link>).
 - Throughout the evolution the SIS was only limited to:
   - Information needed to survive and thrive in the physical world/terrain like info about resources and dangers.
-  - Other people in society, social network, social structure.
+  - Other people in society, social network, social structure, cultural beliefs.
 - Within few decades, the SIS has grown orders of magnitude higher in complexity and in quantity of information after introduction of mass media. We are not evolutionarily equipped to consciously and statistically discern each and every piece of information we receive and form cognitive model/mental schema which are free of cognitive inconsistency/semantic dissonance.
 - Implementation of [identity wiring](weaponisation.md#identity-wiring), execution of [identity fishing](weaponisation.md#identity-fishing) is conducted through information system.
 - The diagram below attempts high level visualization.
