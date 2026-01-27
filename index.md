@@ -15,7 +15,6 @@ Beta version
   - Understand the flaws in the current system and pushing towards global sustainable social framework that is harmonic in case of safety(physical/territorial, economic, mental) while allowing constructive, colourful chaos(science, arts, sports etc) and space for other beings and their ecosystems to thrive.
 - This approach integrates existing work across various fields(psychology, information science, systems theory, evolutionary history) and extend these perspectives wherever necessary.
 - Recommended to use as a manual to be revisited in a loop while contemplating, observing realtime info and studying historical patterns.
-- Since we’ll discuss warfare of various modes, mentioning that no argument is hinting towards extremism or pseudo-secularism. Most of the political situations are complex, be cautious while looking at the same using any of the provided info.
 - This is in beta and actively in progress— open to refinement, falsification, and extension.
 
 <p>

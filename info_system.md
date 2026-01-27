@@ -17,10 +17,11 @@ nav_order: 4
 - Throughout the evolution the SIS was only limited to:
   - Information needed to survive and thrive in the physical world/terrain like info about resources and dangers.
   - Other people in society, social network, hierarchy, cultural beliefs.
-- Within few decades, the SIS has grown orders of magnitude higher in complexity and in quantity of information after introduction of mass media. We are not evolutionarily equipped to consciously– semantically and statistically– discern each and every piece of information we receive and form cognitive model/mental schema which are free of cognitive inconsistency/semantic dissonance.
-- SIS– specifically mass media acts as medium for implementation/occurence of [identity wiring](weaponisation.md#identity-wiring), execution of [identity fishing](weaponisation.md#identity-fishing).
+  - There were no large scale persistent storage systems other than network of human brains which allowed people to add their biases(learned, evolutionary), make mistakes, contemplate and extend knowledge in-between collecting and distributing information which led to evolution of cultures and languages.
+- Within few decades, the SIS has grown orders of magnitude higher in complexity and in quantity of information after introduction of mass media. We are not evolutionarily equipped to consciously– semantically and statistically– discern each and every piece of information we receive and form cognitive models/mental schemas which are free of semantic inconsistencies/dissonance.
+- SIS—dominantly mass media— acts as medium for implementation/occurence of [identity wiring](weaponisation.md#identity-wiring), execution of [identity fishing](weaponisation.md#identity-fishing).
 - The diagram below attempts high level visualization.
-  - Blue nodes: individuals/agent. Blue node network: human social network (high level)
+  - Blue nodes: individuals/agents. Blue node network: human social network (high level)
   - Red/pink: Block shows recently formed component but most dominant information source in modern environment. Red lines shows each node interacts with mass media in personal capacity OR in other words, mass media is capable of engaging with whole society on individual level bypassing local social constraints, influencing society through [information referencing, social truth](#social-truth).
 
 <p>
