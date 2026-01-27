@@ -11,7 +11,7 @@ Status: Exploratory / Working framework (pre-1.0)
 
 An exploratory conceptual framework that shares systems-thinking perspective on individual and collective human behaviour, information systems and social strucutres.
 
-### [Click here for overview and all existing work](https://seeThroughThis.github.io/)
+<a href="https://seeThroughThis.github.io/" target="_blank">Click here for overview and all existing work</a>
 ---
 
 ### License
@@ -25,13 +25,12 @@ They do not imply dependency, endorsement, or incorporation of external content.
 Formal references may be added in later versions.
 
 ### Contributing / Feedback
-This is currently a single-author exploratory project which is subject to change.
-
 Feedback is welcome in the form of:
-- issues
-- questions
-- conceptual critiques
-- references to related work
+- Issues
+- Questions
+- Conceptual critiques
+- References to related work
+
 Pull requests may be considered later when the framework stabilizes.
 
 ---
