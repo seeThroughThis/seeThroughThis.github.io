@@ -48,7 +48,7 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
     - Center node is target node. Surrounding nodes connected to center node denote individuals in direct social network
     - Concentric circles try to quantize the relationship closeness e.g. 1-10, 11-30 etc. (These numbers and below mentioned abstractions are hardcoded high-level examples to quantize information and are not meant to be compulsion)
     - Circles are further divided in groups A, B, C(pies coloured differently). This denotes further compartmentlisation within specific range. e.g range 1-10 consists of multiple social groups including family and friends and conversations we engage with a specific friends group does not mean we'll exchange same info with other social groups nor we expect these isolated groups to exchange personal information without consent.
-    - This attack exactly disrupts the above natural expectation by repeatedly sharing information and propagating back to target node leading to collapse of relationship schema/model causing anxiety, paranoia, inability to seeking direct help.
+    - This attack exactly disrupts the above natural expectation by repeatedly sharing information in-between compartments and propagating back to target node leading to collapse of relationship schema/model causing anxiety, paranoia, inability to seeking direct help.
     - Amplified mental stress when executed subsequently to identity crisis.
 
 <p>
