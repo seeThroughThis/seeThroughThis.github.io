@@ -10,7 +10,7 @@ Information about existing work that is related, alinged or overlaping with this
 
 
 | Work | Authors |
-|:---  |     ---:|
+|:---- |    ----:|
 {% for row in site.data.related_work %}
 | {{ row.Work }} | {{ row.Authors }} | 
 {% endfor %}
