@@ -6,8 +6,8 @@ nav_order: 2
 
 # Related work
 
-Existing related or overlaping work information will be added here.
+Information about existing work that is related, alinged or overlaping with this project will be added here. (This does not imply dependency or endorsement)
 
 {% for row in site.data.related_work %}
-| {{ row.Work }} | {{ row.Description }} | {{ row.Authors }} | {{ row.Date }} | 
+| {{ row.Work }} | {{ row.Authors }} | 
 {% endfor %}
