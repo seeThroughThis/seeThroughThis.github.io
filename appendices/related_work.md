@@ -8,9 +8,12 @@ nav_order: 2
 
 Information about existing work that is related, alinged or overlaping with this project will be added here. (This does not imply dependency or endorsement)
 
-
+{% capture table %}
 | Work | Authors |
 |:---- |    ----:|
 {% for row in site.data.related_work %}
 | {{ row.Work }} | {{ row.Authors }} | 
 {% endfor %}
+{% endcapture %}
+
+{{ table | markdownify }}
