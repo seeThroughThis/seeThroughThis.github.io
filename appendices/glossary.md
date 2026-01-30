@@ -12,7 +12,6 @@ Group affiliation (“Who are my people?”)
 Territorial association (“Where do we collectively operate and take responsibility?”)
 Historically coupled through evolution.
 
-
 ## Belief Break
 A threshold event where sustained contradiction between beliefs and perceived reality renders an identity or value model unreliable, triggering accelerated and often noisy belief updating.
 
@@ -31,7 +30,7 @@ Targeted dissemination of information designed to reinforce, or alter identity b
 ## Cognitive Warfare
 The strategic use of information and incentives to influence perception, belief formation, and decision-making at individual or population scale.
 
-## Psychological Operations (PsyOps)
+## PsyOps (Psychological Operations)
 Planned activities that employ information, messaging, and environmental manipulation to influence attitudes and behaviors in support of broader objectives.
 
 ## Super Information System (SIS)
