@@ -8,12 +8,20 @@ nav_order: 2
 
 Information about existing work that is related, alinged or overlaping with this project will be added here. (This does not imply dependency or endorsement)
 
-{% capture table %}
-| Work | Authors |
-|:---- |    ----:|
-{% for row in site.data.related_work %}
-| {{ row.Work }} | {{ row.Authors }} | 
-{% endfor %}
-{% endcapture %}
 
-{{ table | markdownify }}
+<table>
+  <thead>
+    <tr>
+      <th>Work</th>
+      <th style="text-align:right">Authors</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in site.data.related_work %}
+    <tr>
+      <td>{{ row.Work }}</td>
+      <td style="text-align:right">{{ row.Authors }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
