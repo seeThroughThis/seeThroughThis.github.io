@@ -12,7 +12,7 @@ Information about existing work that is related, alinged or overlaping with this
 <table>
   <thead>
     <tr>
-      <th>Work</th>
+      <th style="text-align:left">Work</th>
       <th style="text-align:right">Authors</th>
     </tr>
   </thead>
