@@ -34,8 +34,5 @@ The strategic use of information and incentives to influence perception, belief 
 ## Psychological Operations (PsyOps)
 Planned activities that employ information, messaging, and environmental manipulation to influence attitudes and behaviors in support of broader objectives.
 
-## Belief Model
-An internal cognitive representation used to predict outcomes, interpret information, and guide behavior.
-
 ## Super Information System (SIS)
 A socio-technical system integrating human behavior, information flows, and structural constraints into a single analytical unit.
