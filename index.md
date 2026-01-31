@@ -22,7 +22,7 @@ Beta version
   <div style="display:flex; justify-content:center;">
     <div style="display: grid; place-items: center; position: relative;">
       <span style="opacity:0;grid-area: 1 / 1;"></span>
-      <img style="grid-area: 1 / 1;" src="{{diagrams/scope of work.svg | relative_url}}"><br>
+      <img style="grid-area: 1 / 1;" src="{{/diagrams/scope of work.svg | relative_url}}"><br>
     </div>
   </div>
 </p>

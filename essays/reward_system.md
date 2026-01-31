@@ -16,7 +16,7 @@ nav_order: 2
   <div style="display:flex; justify-content:center;">
     <div style="display: grid; place-items: center; position: relative;">
       <span style="opacity:0;grid-area: 1 / 1;">Perception driven by semantically relevant existing cognitive lenses/beliefs High quantity semantically aligned information Reinforcing existing beliefs and cognitive lenses</span>
-      <img style="grid-area: 1 / 1;" src="{{diagrams/bias bloating.svg | relative_url}}"><br>
+      <img style="grid-area: 1 / 1;" src="{{/diagrams/bias bloating.svg | relative_url}}"><br>
     </div>
   </div>
   <p style="text-align: center; font-style: italic">Bias bloating</p>

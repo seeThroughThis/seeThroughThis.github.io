@@ -58,7 +58,7 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
   <div style="display:flex; justify-content:center;">
     <div style="display: grid; place-items: center; position: relative;">
       <span style="opacity:0;grid-area: 1 / 1;"></span>
-      <img style="grid-area: 1 / 1;" src="{{diagrams/personal social graph.svg | relative_url}}"><br>
+      <img style="grid-area: 1 / 1;" src="{{/diagrams/personal social graph.svg | relative_url}}"><br>
     </div>
   </div>
 </p>
