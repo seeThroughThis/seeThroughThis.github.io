@@ -21,9 +21,11 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
 
   - We [discussed here](essays/identity.md) that identity (two traits) is critical basis for social collaboration, group behaviour, and biological competition hence regardless of the phase of warfare/intensity of biological competition, identity is the core component at play.
 
-  - <a id="identity-wiring"></a>**Identity wiring**: Identity wiring refers to the design of the sentiment and opinions of various identities towards each other and self, driven by stereotyping bias. These beliefs are formed by social truths e.g. information propagated through social talks, mass media, historical records. This heavily influences further/ongoing warfare of any mode.
-  
-  - <a id="identity-fishing"></a>**Identity fishing**: Propagating intricately designed information through various media targeted towards specific identity(ies). Perception effects include reinforcing/altering identity wiring, distorting perceived social identity design.
+  {: #identity-wiring }
+  - **Identity wiring**: Identity wiring refers to the design of the sentiment and opinions of various identities towards each other and self, driven by stereotyping bias. These beliefs are formed by social truths e.g. information propagated through social talks, mass media, historical records. This heavily influences further/ongoing warfare of any mode.
+
+{: #identity-wiring }
+  - **Identity fishing**: Propagating intricately designed information through various media targeted towards specific identity(ies). Perception effects include reinforcing/altering identity wiring, distorting perceived social identity design.
   
 
   - PsyOps: Unlike psy warfare tactics which are always deployed through the info system/media, ops are devised according to latest system state developments or to achieve specific objective to sustain broader design plan.
