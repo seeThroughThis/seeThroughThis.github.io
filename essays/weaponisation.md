@@ -23,8 +23,8 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
 
   {: #identity-wiring }
   - **Identity wiring**: Identity wiring refers to the design of the sentiment and opinions of various identities towards each other and self, driven by stereotyping bias. These beliefs are formed by social truths e.g. information propagated through social talks, mass media, historical records. This heavily influences further/ongoing warfare of any mode.
-
-{: #identity-wiring }
+  
+  <a id="identity-fishing"></a>
   - **Identity fishing**: Propagating intricately designed information through various media targeted towards specific identity(ies). Perception effects include reinforcing/altering identity wiring, distorting perceived social identity design.
   
 
