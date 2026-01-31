@@ -22,7 +22,7 @@ nav_order: 4
 - SIS—dominantly mass media— acts as medium for implementation/occurence of [identity wiring](/essays/weaponisation#identity-wiring), execution of [identity fishing](/essays/weaponisation#identity-fishing).
 - The diagram below attempts high level visualization.
   - Blue nodes: individuals/agents. Blue node network: human social network (high level)
-  - Red/pink: Block shows recently formed component but most dominant information source in modern environment. Red lines shows each node interacts with mass media in personal capacity OR in other words, mass media is capable of engaging with whole society on individual level bypassing local social constraints, influencing society through [information referencing, social truth](/essays/weaponisation.md#social-truth).
+  - Red/pink: Block shows recently formed component but most dominant information source in modern environment. Red lines shows each node interacts with mass media in personal capacity OR in other words, mass media is capable of engaging with whole society on individual level bypassing local social constraints, influencing society through [information referencing, social truth](/essays/weaponisation#social-truth).
 
 <p>
   <p style="text-align: center; font-style: italic">Super information system, Media Ecology</p>
