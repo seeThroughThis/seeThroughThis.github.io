@@ -6,7 +6,8 @@ nav_order: 2
 
 # Related work
 
-Information about existing work that is related, alinged or overlaping with this project will be added here. (This does not imply dependency or endorsement)
+Collation of work that is related, alinged or overlaping with this project or any part of the project.
+This does not imply dependency or endorsement.
 
 
 <table>
