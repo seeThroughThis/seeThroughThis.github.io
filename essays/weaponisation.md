@@ -42,12 +42,19 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
         - Responsible for selecting pivot based on geolocational identity design and pivot's low social connections in close proximity <new-tab-link href="https://en.wikipedia.org/wiki/Social_network">social network</new-tab-link>, abling social isolation.
         - Weaponisation of psychology is not widely acknowledged enabling such social entities to engage in covert ops without checks and balances.
       - Lever:
-        - Consists of large number of population assembled in multiple social hierarchies in multiple geolocations and points in time spanning decades.
+        - Consists of large number of population assembled in multiple social hierarchies in multiple geolocations and points in time.
         - Assembled to manipulate the environment of pivot to influence behaviour and gather information.
         - Most of people under the heavy influence of biases such as <new-tab-link href="https://en.wikipedia.org/wiki/Groupthink">groupthink</new-tab-link>, cognitive/psy war tactics hence vunlerable to coercion by orchestrators.
       - Standard psyop execution steps include:
-        - Performing several methods cyclically over a span of decades such as manufacturing moral high ground which is provided to people assembling hierarchies (lever), manipulating the environment of the target to disturb and induce abnormal behaviour creating opportunities to repeat the cycle and achieving self-sustained lever behaviour and [social truth](#social-truth).
-        - Using assembled hierarchies, and <new-tab-link href="https://en.wikipedia.org/wiki/Structure_and_agency">structure and agency</new-tab-link> to carry out various cognitive attacks including: belief break, false-positive and false-negative feedback to reward system, inflicting mental injuries/traumatising by harassment, taunting etc. Reinforcing biases through ingestion of information(projecting social truth). Exploiting free will by controlling action space, limiting choices. Inducing addictions. Induced learned helplessness. Pivot's high sensitivity towards informational social influence, normative social influence, naturally selected high reward functions are exploited. Controlling cash flow/economic stress. Op execution, information gathering via digital and non-digital means.
+        - Performing several methods cyclically over a span of decades and multiple generations of pivot such as manufacturing moral high ground which is provided to people assembling hierarchies (lever), manipulating the environment of the target to disturb and induce abnormal behaviour creating opportunities to repeat the cycle and achieving self-sustained lever behaviour and [social truth](#social-truth).
+        - Using assembled hierarchies, and <new-tab-link href="https://en.wikipedia.org/wiki/Structure_and_agency">structure and agency</new-tab-link> to carry out various cognitive attacks including:
+          - belief break, false-positive and false-negative feedback to reward system, inflicting mental injuries/traumatising by harassment, taunting etc. 
+          - Controlling ingestion of information(projecting social truth) through social conversations, social media engagement etc. reinforcing biases, disinformation.
+          - Exploiting free will by controlling action space, limiting choices. Induced helplessness.
+          - Pivot's high sensitivity towards informational social influence, normative social influence, naturally selected high reward functions are exploited. Inducing addictions. 
+          - Controlling cash flow/economic stress. Op execution, information gathering via digital and non-digital means.
+          - Recreating similar experiences for close social nodes, inducing emotional normal and deterring aid engagement.
+          - Abusing widespread disinformation about human behaviour, mental disorders and equipping labelling, stereotyping against pivot.
   - Relations reset: This is an individual level cognitive attack which we'll try to understand using diagram below where we'll attempt visualising personal social network.
     - Center node is target node. Surrounding nodes connected to center node denote individuals in direct social network
     - Concentric circles try to quantize the relationship closeness e.g. 1-10, 11-30 etc. (These numbers and below mentioned abstractions are hardcoded high-level examples to quantize information and are not meant to be compulsion. Also, relationship weights are from POV of central node/individual and not two-way)
@@ -55,7 +62,8 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
     - This attack exactly disrupts the above natural expectation by repeatedly sharing information in-between compartments and propagating back to target node leading to collapse of relationship schema/model causing anxiety, paranoia, inability to seeking direct help.
     - All the nodes in social network in the diagram which are psotioned within specific range/weights when healthy state will reset back to let's say 90-100 after successful attack.
     - This vulnerability allows orchs force rebuild social network with preferrable social nodes to gain control of the target node/individual.
-    - Amplified effects when executed with active, unresolved identity crisis since overall cognitive model is already destabilized.
+    - Increased vulnerability and effects when target is in active, unresolved identity crisis since overall cognitive model is already destabilized.
+
 <p>
   <p style="text-align: center; font-style: italic">Personal social graph</p>
   <div style="display:flex; justify-content:center;">

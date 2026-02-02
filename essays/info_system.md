@@ -11,7 +11,7 @@ nav_order: 4
   - Distribute data
   - Generate data/new information.
 - We (humans) are capable of performing all above functions.
-- In our case, context is the whole human civilization and wherever humans can navigate, interact/perform actions, collect and distribute information (SIS).
+- In our case, context for information system is the whole human civilization and wherever humans can navigate, interact/perform actions, collect and distribute information (SIS).
 - From human information reception POV, SIS dominantly includes: Education system, TV news/newspaper, digital social media, books, movies and other entertainment media, websites and human <new-tab-link href="https://en.wikipedia.org/wiki/Social_network">social network</new-tab-link>.
 - Formation of most of the belief system is influenced by SIS including cultural beliefs, identity values(two traits). Human society and SIS continuously interact with each other and co-evolve(<new-tab-link href="https://en.wikipedia.org/wiki/Media_ecology">Media ecology</new-tab-link>).
 - Throughout the evolution the SIS was only limited to:
