@@ -20,6 +20,9 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
   {: #social-truth }
   - **Social truth, Social referencing**: Number of sources/nodes that validates or refers to a particular statement regardless of whether that statement is factually true, false or partial. A higher degree of social reference weight causes <new-tab-link href="https://en.wikipedia.org/wiki/Social_proof">informational social influence</new-tab-link> towards other socially, informationally close proximity nodes, leading to self-sustained growth, persistence of the information and becoming a **social truth**. Even if an individual is aware of a social truth being factually false doesn’t necessarily mean the individual can act/behave independent of that social truth. Not all nodes have same weightage. Few high rank nodes tend to override/enforce information against large number of low weight nodes(large populations) hence social truth is subject to manipulation through high rank nodes such as internet sites/docs representing reputed organisations, search engines, AI, biased high rank personalities. Nodes: Nodes can be an individual human, organisation, non-human entities such as search engines, AI, websites etc(so far non-human entities are still controlled by humans). Information perception/reception is also subject to constraint of biases including identity labelling of distributer node from POV of receiver human node.
 
+  {: #belief-break }
+  - **belief break**: Any observed/perceived information or experiences especially in non-negligible quantity and in relevant time span that is contradictory/not aligned to existing beliefs within context can render that belief model false. In other words, there is non-negligible error/discrepancy between mind’s current belief (conscious reality) and actual reality WRT perceived information. The "perceived information" is subject to manipulation.
+
   - We [discussed here](/essays/identity) that identity (two traits) is critical basis for social collaboration, group behaviour, and biological competition hence regardless of the phase of warfare/intensity of biological competition, identity is the core component at play.
 
   {: #identity-wiring }
@@ -48,7 +51,7 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
       - Standard psyop execution steps include:
         - Performing several methods cyclically over a span of decades and multiple generations of pivot such as manufacturing moral high ground which is provided to people assembling hierarchies (lever), manipulating the environment of the target to disturb and induce abnormal behaviour creating opportunities to repeat the cycle and achieving self-sustained lever behaviour and [social truth](#social-truth).
         - Using assembled hierarchies, and <new-tab-link href="https://en.wikipedia.org/wiki/Structure_and_agency">structure and agency</new-tab-link> to carry out various cognitive attacks including:
-          - belief break, false-positive and false-negative feedback to reward system, inflicting mental injuries/traumatising by harassment, taunting etc. 
+          - [belief break](#belief-break), false-positive and false-negative feedback to reward system, inflicting mental injuries/traumatising by harassment, taunting etc. 
           - Controlling ingestion of information(projecting social truth) through social conversations, social media engagement etc. reinforcing biases, disinformation.
           - Exploiting free will by controlling action space, limiting choices. Induced helplessness.
           - Pivot's high sensitivity towards informational social influence, normative social influence, naturally selected high reward functions are exploited. Inducing addictions. 
