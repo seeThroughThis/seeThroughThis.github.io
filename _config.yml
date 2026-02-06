@@ -8,10 +8,12 @@ color_scheme: dark
 ga_tracking: G-8L87470RTE
 ga_tracking_anonymize_ip: true
 aux_links:
-  "GitHub repo":
-    - "https://github.com/seeThroughThis/seeThroughThis.github.io"
+  "Substack":
+    - "https://wordchaos.substack.com/"
   "LinkedIn":
     - "https://www.linkedin.com/in/omkar-killarikar/"
+  "on GitHub":
+    - "https://github.com/seeThroughThis/seeThroughThis.github.io"
 
 aux_links_new_tab: true
 footer_content: ""
