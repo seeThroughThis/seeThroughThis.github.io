@@ -19,7 +19,7 @@ nav_order: 3
   - Territorial provocations: Challenging territorial/boundaries status quo, territory partitioning/border redrawing to create new disputes.
   - **Non-territorial identity variables**: countries/states, communities, sub-communities, ideologies (left, right, capitalism, communism), physical attributes (various skin, hair colours, mono-lid eyes), religions, ethnicities, languages, gender/sexual orientations and recently trending generations (millennial, gen z etc.)
 - On the positive side, Achievements are celebrated in identity crossovers such as sport victories, technological, scientific advancements etc.
-- Individual identity / role is powerful and influential from high rank [nodes](/essays/weaponisation#social-node) / personalities POV.
+- Individual identity / role is powerful and influential from high rank [nodes](/essays/appendices/glossary#social-node) / personalities POV.
 
 ## Identity crisis
 - Repetitively observed/perceived information or experiences within relevant time span that is contradictory/not aligned to existing identity beliefs leads to identity crisis.
