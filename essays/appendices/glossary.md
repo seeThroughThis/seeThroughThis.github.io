@@ -35,3 +35,7 @@ Planned activities that employ information, messaging, and environmental manipul
 
 ## Super Information System (SIS)
 A socio-technical system integrating human behavior, information flows, and structural constraints into a single analytical unit.
+
+{: #social-node }
+## Social Node
+Within social network/graph, node is a informationally interactive entity. Rank of a node is quantization of its social status expressing influentiality.
