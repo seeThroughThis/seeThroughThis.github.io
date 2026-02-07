@@ -6,13 +6,12 @@ nav_order: 3
 # Identity
 - Single most important evolutionary behavior from social stability POV.
 - Identity consists of the:
-  - “**two traits**”:
+  - The “**two traits**”:
     1. Group affiliation (<new-tab-link href="https://en.wikipedia.org/wiki/Social_identity_theory">Social identity theory</new-tab-link>)
     2. Territorial association.
   - Individuality / individual role WRT two traits.
 - Evolutionarily, and even in present-time tribal settings the two traits are near-compulsory mutually inclusive.
-- This is applicable to all social animals (Chimpanzees, Bonobos, Hyenas, Wolves, Lions etc.)
-- Economic, trading activities in-between identities easing up two traits. Reversely, resource scarcity / high economic stress leads to intensified identity and biological competition.
+- Economic, trading activities in-between identities ease up two traits. Reversely, resource scarcity / high economic stress intensifies identity and biological competition.
 - In modern times, current implementation of nation-state-culture system induces sense of identity with decoupled “two traits” without safeguards against identity exploitation of large populations.
 - Identity is constantly exploited through political/economic/violent means worldwide (inter-national, intra-national).
 - Examples of variables across which identity can be leveraged or exploited:
