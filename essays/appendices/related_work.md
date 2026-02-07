@@ -6,7 +6,8 @@ nav_order: 2
 
 # Related work
 
-Collation of work that is related, alinged or overlaping with this project or any part of the project.
+Collation of work that is related, aligned or overlapping with this project or any subset of the project.
+
 This does not imply dependency or endorsement.
 
 
