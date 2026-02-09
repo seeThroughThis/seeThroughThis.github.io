@@ -29,7 +29,7 @@ nav_order: 3
 
 
 {: #ic-symptoms }
-### Symptoms/Behavioural traits of active identity crisis (Identity Moratorium)
+### Symptoms/Behavioural traits of active identity crisis
 Increased sensitivity to overall environmental stimuli. Increased vulnerability to addictions, naturally selected high reward functions/stimuli e.g. Sexual attraction/porn, social stimuli, food cravings. Discomfort in society, low confidence, emotional volatility including impulsivity, mood polarity, mimicking behaviour of others/increased sensitivity to social proof, normative social influence. Unrestrained emotional and reward driven thinking/behaviour. In order to rebuild behavioural model, going through existing memories/data trying to find patterns and possibilities leading to day dreaming, self talk, subject to hallucination. Doorway to disorders.
 
 ### About recovery
