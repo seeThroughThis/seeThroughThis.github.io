@@ -38,4 +38,4 @@ A socio-technical system integrating human behavior, information flows, and stru
 
 {: #social-node }
 ## Social Node
-Within social network/graph, node is a informationally interactive entity. Rank of a node is quantization of its social status expressing influentiality.
+Within social network/graph, node is an informationally interactive entity. Rank of a node is quantization of its social status expressing influentiality.
