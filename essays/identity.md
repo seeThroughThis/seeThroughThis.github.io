@@ -21,7 +21,7 @@ nav_order: 3
 - Individual identity/role is powerful and influential from high rank [nodes](/essays/appendices/glossary#social-node) / personalities POV.
 
 ## Identity crisis
-- Any observed/perceived information or experiences, especially ina  non-negligible quantity and a relevant time span that is contradictory/not aligned to existing identity beliefs, leads toan  identity crisis.
+- Any observed/perceived information or experiences, especially ina non-negligible quantity and a relevant time span that is contradictory/not aligned to existing identity beliefs, leads to an identity crisis.
 - The two-trait model collapses. When we say collapse, it’s not the two traits themselves but the values it holds.
 - Unlike sudden mental injury/trauma, an identity crisis gradually affects overall behaviour, destabilizing primary cognitive model.
 - Since identity is a core value for normal human functioning The brain triggers a mechanism in order to rebuild the identity cognitive model.
@@ -35,7 +35,7 @@ nav_order: 3
 - Unrestrained emotional and reward-driven thinking/behaviour. In order to rebuild the behavioural model, going through existing memories/data, trying to find patterns and possibilities leading to daydreaming, self-talk, and subject to hallucination.
 
 ### About recovery
-- Extreme information-dense modern environment is the cause behind susceptibility to identity crisis, as well as the obstacle for recovery. Due to the same,the  victim is prone to identity foreclosure.
+- Extreme information-dense modern environment is the cause behind susceptibility to identity crisis, as well as the obstacle for recovery. Due to the same,the victim is prone to identity foreclosure.
 - Most of these problems occur when deprived of aid and true feedback from the environment/society.
-- A natural way to recover is allowance of engagement in meaningful activities socially, culturally, and economically, which acts as true-positive feedback/rewards forthe  brain to rebuild neural pathways.
-- Because of the higher sensitivity to environmental stimuli, an active identity crisis (identity moratorium) is a highly valued mental state from PsyOps POV. Applications at the individual and population scale. The use of this knowledge for psychological, socio-economic warfare is not acknowledged widely, nordo  safeguards exist in society. Unlike traditional physical warfare, these attacks are relatively difficult to predict, identify and confirm.
+- A natural way to recover is allowance of engagement in meaningful activities socially, culturally, and economically, which acts as true-positive feedback/rewards for the brain to rebuild neural pathways.
+- Because of the higher sensitivity to environmental stimuli, an active identity crisis (identity moratorium) is a highly valued mental state from PsyOps POV. Applications at the individual and population scale. The use of this knowledge for psychological, socio-economic warfare is not acknowledged widely, nor do safeguards exist in society. Unlike traditional physical warfare, these attacks are relatively difficult to predict, identify and confirm.

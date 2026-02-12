@@ -4,18 +4,18 @@ nav_order: 2
 ---
 
 # Reward system
-- This system promotes us taking actions and learn behaviour that leads to benefits and avoiding detrimental situations, playing an important role in buildinga  behavioural model.
+- This system promotes us taking actions and learn behaviour that leads to benefits and avoiding detrimental situations, playing an important role in building a behavioural model.
 - Evolutionary (primary): These reward functions are naturally selected, such as sex, social stimuli, eating food, etc.
 - Learned (secondary): Includes making money, social media, and video games. These are learned behaviours/skills, but evolutionary functions still acts as a basis for them, e.g. social media simulates social stimuli, video games include social engagement/competition, probabilistic in-game items, and soft materialism. Learning skills to make money because we can buy necessary things like food, a home and more.
 - Punishments or negative rewards examples include loss of money (non-probabilistic way), a cold shoulder, breaking the law leads to punishments with respective severity, and a drop in frequency of getting burned while cooking.
 - Feeling good or getting a kick comes from a dopamine surge from baseline level, while negative things lead to a dopamine dip from the baseline level, making you feel blue.
 - Regular engagement in rewarding activities leads to decreasing the kick and increasing the normal level (moving average). Now, just ceasing to engage with the activity can lead to feeling low considering the new norm, while feeling rewarded will require to engage in higher frequency or intensity. This is why people face difficulties reducing social media, gaming time, etc., underlining the importance of dopamine detox, intentional boredom to reset baseline level, maintaining balanced behaviour and avoiding addiction.
-- A crucial factor for the behavioural development of children to be able lead a mentally and functionally healthy life, as their behavioural model, building balanced self-esteem and confidence, comes from accurate environmental feedback. Inaccurate feedbacks malforms cogntive lenses, leading to inaccurate information perception, which further leads to malformed neural pathways. This cycle quickly bloats bad models in modern info-dense environemnt making it extremely difficult to resolve older malformed pathways, especially formed in early age.
+- A crucial factor for the behavioural development of children to be able lead a mentally and functionally healthy life, as their behavioural model, building balanced self-esteem and confidence, comes from accurate environmental feedback. Inaccurate feedbacks malforms cognitive lenses, leading to inaccurate information perception, which further leads to malformed neural pathways. This cycle quickly bloats bad models in modern info-dense environment making it extremely difficult to resolve older malformed pathways, especially formed in early age.
 
 <p>
   <div style="display:flex; justify-content:center;">
     <div style="display: grid; place-items: center; position: relative;">
-      <span style="opacity:0;grid-area: 1 / 1;">Perception driven by semantically relevant existing cognitive lenses/beliefs. High quantityof semantically aligned information. Reinforcing existing beliefs and cognitive lenses</span>
+      <span style="opacity:0;grid-area: 1 / 1;">Perception driven by semantically relevant existing cognitive lenses/beliefs. High quantity of semantically aligned information. Reinforcing existing beliefs and cognitive lenses</span>
       <img style="grid-area: 1 / 1;" src="{{ '/diagrams/bias bloating.svg' | relative_url}}"><br>
     </div>
   </div>
