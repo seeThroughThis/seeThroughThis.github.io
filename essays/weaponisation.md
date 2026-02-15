@@ -4,7 +4,7 @@ nav_order: 98
 ---
 
 # Weaponisation of human psychology.
-Listing terms and possible methods in brief for documentation purposes. In the context of economic, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations to be free of its influence, whether induced or natural, emphasising <todo/> long-standing necessity of watchdogs functionally independent of existing biased power structures.
+Listing terms and possible methods in brief for documentation purposes. In the context of economic, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations to be free of its influence, whether induced or natural, emphasising <todo/> long-standing necessity of watchdogs functionally independent of existing (potentially biased) power structures.
 
 ### Warfare:
 Reasons behind initiating warfare include capturing resources, reaffirming dominance, neutralising perceived threats and increasing identity influence. Almost every time, the initial phases include economic, information, cognitive/psy, and identity warfare; hence, it’s not true every time that the party which triggers the physical phase is the initiator of war in a holistic sense.
@@ -63,7 +63,7 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
   {: #relations-reset }
   - Relations reset: This is an individual-level cognitive attack, which we'll try to understand using a diagram below, where we'll attempt visualising personal social network.
     - The centre node is the target node. Surrounding nodes connected to the centre node denote individuals in the direct social network
-    - Concentric circles try to quantise the relationship closeness, e.g. 1-10, 11-30, etc. (These numbers and the abstractions mentioned are hardcoded high-level examples to quantise information and are not meant to be compulsory. Also, relationship weights are from the POV of the central node/individual and not two-way)
+    - Concentric circles try to quantise the relationship closeness, e.g. 1-10, 11-30, etc. (These numbers and the abstractions mentioned are hardcoded high-level examples to quantise information and are not meant to be compulsion. Also, relationship weights are from the POV of the central node/individual and not two-way)
     - Circles are further divided into groups A, B, and C (differently coloured pies). This denotes further compartmentalisation within a specific range. e.g range 1-10 consists of multiple social groups, including family and friends etc. And conversations we engage with a specific friend group do not mean we'll exchange the same info with other social groups, nor do we expect these isolated groups to exchange personal information without consent.
     - This attack exactly disrupts the above natural expectation by repeatedly sharing information between compartments and propagating back to the target node, leading to the collapse of the relationship schema/model, inflicting mental injury, causing anxiety, paranoia, and inability to seek direct help.
     - All the nodes in the social network in the diagram, which are positioned within a specific range/weights when in a healthy state, will reset back to, let's say, 90-100 after a successful attack.

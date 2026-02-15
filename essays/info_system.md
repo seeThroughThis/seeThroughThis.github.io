@@ -17,7 +17,7 @@ nav_order: 4
 - Throughout the evolution, the SIS was limited to:
   - Information needed to survive and thrive in the physical world/terrain, like info about resources and dangers.
   - Other people in society, social network, hierarchy, cultural beliefs.
-  - There were no large-scale persistent storage and computer systems other than a network of human brains, which allowed people to add their biases (learned, evolutionary), make mistakes, contemplate, and extend knowledge in between collecting and distributing information, which led to the evolution of cultures and languages we see worldwide.
+  - There were no large-scale persistent storage and computer systems other than a network of human minds, which allowed people to add their biases (learned, evolutionary), make mistakes, contemplate, and extend knowledge in between collecting and distributing information, which led to the evolution of cultures and languages we see worldwide.
 - Within a few decades, the SIS has grown orders of magnitude higher in complexity and in quantity of information after the introduction of mass media. We are not evolutionarily equipped to consciously– semantically and statistically– discern each and every piece of information we receive and form cognitive models/mental schemas which are free of semantic inconsistencies/dissonance. Significant amount of the time, we just store and repeat the information as it is.
 - SIS—dominantly mass media— acts as medium for implementation/occurrence of [identity wiring](/essays/weaponisation#identity-wiring), execution of [identity fishing](/essays/weaponisation#identity-fishing).
 - The diagram below attempts a high-level visualization.
