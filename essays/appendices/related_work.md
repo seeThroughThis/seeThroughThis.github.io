@@ -15,6 +15,7 @@ This does not imply dependency or endorsement.
   <thead>
     <tr>
       <th style="text-align:left">Work</th>
+      <th style="text-align:left">Tip</th>
       <th style="text-align:right">Authors</th>
     </tr>
   </thead>
@@ -22,6 +23,7 @@ This does not imply dependency or endorsement.
     {% for row in site.data.related_work %}
     <tr>
       <td>{{ row.Work }}</td>
+      <td>{{ row.Intersection }}</td>
       <td style="text-align:right">{{ row.Authors }}</td>
     </tr>
     {% endfor %}

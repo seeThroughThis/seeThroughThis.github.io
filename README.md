@@ -7,9 +7,9 @@
 </p>
 
 # Human among Humans
-Status: Exploratory / Working framework (pre-1.0)
+Status: Exploratory / Working model (pre-1.0)
 
-An exploratory conceptual framework that shares systems-thinking perspective on individual and collective human behaviour, information systems and social strucutres.
+An exploratory conceptual model that shares systems-thinking perspective on individual and collective human behaviour, information systems and social structures.
 
 <a href="https://seeThroughThis.github.io/" target="_blank">Click here for overview and all existing work</a>
 ---
@@ -30,8 +30,6 @@ Feedback is welcome in the form of:
 - Questions
 - Conceptual critiques
 - References to related work
-
-Pull requests may be considered later when the framework stabilizes.
 
 ---
 Author

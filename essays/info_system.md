@@ -1,6 +1,6 @@
 ---
 title: Super Information System
-nav_order: 4
+nav_order: 5
 ---
 
 # Super information system (SIS)/Super structure
