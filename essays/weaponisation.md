@@ -15,7 +15,7 @@ Reasons behind initiating warfare include capturing resources, reaffirming domin
 In this phase, belligerents are actively trying to inflict physical damage to habitat/infrastructure and humans.
 
 ### Economic warfare
-Tactics include imposing taxes, blockades, boycotting targeted identity, and the use of existing economic high ground to control market access. Used in combination with cognitive, identity warfare in potent combination.
+Tactics include imposing taxes, blockades, boycotting targeted identity, and the use of existing economic high ground to control market access. Can be used in combination with cognitive, identity warfare in potent combination.
 
 ### Cognitive warfare
 Widely acknowledged methods include propagating information that exploits cognitive biases, emotionally influencing target identity/sub-identity through mass media like news, entertainment media.
@@ -26,15 +26,15 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
 - **Social truth, Social referencing**: Number of sources/nodes that validate or refer to a particular statement, regardless of whether that statement is factually true, false or partial. A higher degree of such social reference weight causes informational social influence towards other informationally close proximity nodes, leading to self-sustained growth, persistence of the information and becoming a **social truth**. Even if an individual is aware that a social truth is factually false doesn’t necessarily mean the individual can act/behave independent of that social truth. Not all nodes have the same weightage. Few high rank nodes tend to override/enforce information against a large number of low weight nodes(large populations), hence social truth is subject to manipulation through high rank nodes such as internet sites/docs representing reputed organisations, search engines, AI, and biased high rank personalities. Nodes: Nodes can be an individual human, organisation, non-human entities such as search engines, AI, websites etc (so far, non-human entities are still controlled by humans). Information perception is also subject to constraints of biases, including identity labelling, social rank (status) of the distributor node from the POV of the receiver human node.
 
 {: #belief-break }
-- **belief break**: Any observed/perceived information or experiences, especially in a non-negligible quantity and in a relevant time span, that is contradictory/not aligned to existing beliefs within the context can render that belief model false. In other words, there is a non-negligible error/discrepancy between the mind’s current belief (conscious reality) and actual reality WRT perceived information. The perceived information is subject to manipulation.
+- **belief break**: Any observed/perceived information or experiences, especially in a non-negligible quantity and in a relevant time span, that is contradictory/not aligned to existing beliefs within the context can render that belief model false. In other words, there is a non-negligible error/discrepancy between the mind’s current belief (conscious reality) and actual reality WRT perceived information. The perceived information is subject to manipulation to cause belief break.
 
-- We [discussed here](/essays/identity) that identity (two traits) is a critical basis for social collaboration, group behaviour, and biological competition; hence, regardless of the phase of warfare/intensity of biological competition, identity is the core component at play.
+- We [discussed here](/essays/identity) that identity (two traits) is a critical basis for social collaboration, group behaviour, and biological competition; hence, regardless of the phase of the warfare/intensity of biological competition, identity is the core component at play.
 
 {: #identity-wiring }
-- **Identity wiring**: Identity wiring refers to the design of the sentiments and opinions of various identities towards each other and the self, driven by stereotyping bias. These beliefs are formed by social truths, e.g. information propagated through social talks, mass media, and historical records. This heavily influences further/ongoing warfare of any mode.
+- **Identity wiring**: Identity wiring refers to the design of the sentiments and opinions of various identities towards each other and the self, driven by stereotyping, association bias. These beliefs are formed by social truths, e.g. information propagated through social talks, mass media, and historical records. This heavily influences further/ongoing warfare of any mode.
   
 {: #identity-fishing }
-- **Identity fishing**: Propagating intricately designed information through various media targeted towards specific identity(ies). Perception effects include reinforcing/altering identity wiring, distorting perceived social identity design.
+- **Identity fishing**: Propagating intricately designed information through various media targeted towards specific identity(ies). Perception effects include reinforcing/altering identity wiring, distorting perceived identity norm.
   
 - Specialised PsyOps: Unlike psy warfare tactics, which are always deployed through the info system/media, ops are devised according to the latest system state developments or to achieve a specific objective to sustain a broader design plan. Psychological/cognitive warfare patterns can be identified through analysis of vast data consisting detailed historical data and current affairs. Specialised PsyOps are limited to specific geolocation
   - **Potential objectives** include streamlining, forming hierarchies with required identity composition. Establishing controlled economic networks. Manufacturing controlled leadership/high rank person to influence large populations by abusing hierarchy bias. War games. All objectives are mutually inclusive. Designed to achieve goals without leaking information to public media, and large populations.
@@ -61,7 +61,7 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
         - Using disturbed behaviour as moral high ground, creating opportunities to repeat the cycle and achieving self-sustained lever behaviour.
       - Using assembled hierarchies, and <new-tab-link href="https://en.wikipedia.org/wiki/Structure_and_agency">structure and agency</new-tab-link> to carry out various cognitive attacks including:
         - [belief break](#belief-break), false-positive and false-negative feedback to the reward system, inflicting mental injuries/traumatising by harassment, taunting, etc. 
-        - Controlling ingestion of information(projecting social truth) through social conversations, social media engagement, etc., reinforcing biases, disinformation.
+        - Force ingestion of information(projecting social truth) through social conversations, social media engagement, etc., reinforcing biases, disinformation, controlling thoughts.
         - Exploiting free will by controlling action space, limiting choices. Induced helplessness.
         - Pivot's high sensitivity towards informational social influence, normative social influence, and naturally selected high reward functions are exploited. Inducing addictions. 
         - Controlling cash flow/economic stress. Op execution, information gathering via digital and non-digital means.
