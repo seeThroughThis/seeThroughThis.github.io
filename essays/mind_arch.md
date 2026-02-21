@@ -30,15 +30,16 @@ nav_order: 2
 - Information perception involves below co-occurring functions:
   - Emotions:
     - Realtime emotional response to incoming data/experiences.
-  - Cognitive biases: They occur within their effective context.
+  - Cognitive biases: <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">(Cognitive bias codex)</new-tab-link>
     - Identity biases:
       - Prioritising self group affiliation over other identities.
       - Tendency to accept and propagate information within identity.
-      - Groupthink, herd behaviour.
-    - Subjective normal biases (Baseline):
-      - Perception of specific event, information is supported by the existing contextual information. The existing information may not be accurate sampling of actual reality (within context) leading to skewed perception.
-    - Association biases:
-      - Information association, labelling
+      - Groupthink, herd behaviour, hierarchy, stereotyping bias.
+    - Sampling biases/data biases:
+      - Perception of specific event, information is supported by the existing contextual information which may not be accurate sampling of actual reality leading to skewed perception.
+      - Even if existing information is a good sample, the sample actually to used for perception, decision-making maybe be skewed due to incoming information.
+      - Information/perception about self is primarily driven by environmental/social feedback which can be skewed leading to distorted self-perception as does the prolonged thinking about either "positive" or "negative" points.
+      - If information is emotionally stimulating, it will influence decision-making/conclusion and memory retrieval WRT emotional valence. Various emotional experiences acts as data to allow empathising with respective context.
   - [Reward system](/essays/reward_system)
   - Learned information
     - Information learned in a specific iteration can be used to analyze incoming information in subsequent iterations.

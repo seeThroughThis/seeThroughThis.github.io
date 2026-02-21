@@ -7,7 +7,7 @@ nav_order: 4
 - Single most important evolutionary behaviour from social stability POV.
 - Identity consists of the:
   - The “**two traits**”:
-    1. Group affiliation (<new-tab-link href="https://en.wikipedia.org/wiki/Social_identity_theory">Social identity theory</new-tab-link>)
+    1. Group affiliation <new-tab-link href="https://en.wikipedia.org/wiki/Social_identity_theory">(Social identity theory)</new-tab-link>
     2. Territorial association.
   - Individuality / individual role WRT two traits.
 - Evolutionarily, and even in present-time tribal settings, the two traits are near-compulsory, mutually inclusive.
