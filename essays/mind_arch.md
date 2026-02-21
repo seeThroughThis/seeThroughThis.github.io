@@ -30,7 +30,7 @@ nav_order: 2
 - Information perception involves below co-occurring functions:
   - Emotions:
     - Realtime emotional response to incoming data/experiences.
-  - Cognitive biases: <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">(Cognitive bias codex)</new-tab-link>
+  - Cognitive biases: Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>.
     - Identity biases:
       - Prioritising self group affiliation over other identities.
       - Tendency to accept and propagate information within identity.
