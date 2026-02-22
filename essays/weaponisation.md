@@ -7,18 +7,19 @@ nav_order: 98
 Listing terms and possible methods in brief for documentation purposes. In the context of economic, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations to be free of its influence, whether induced or natural, emphasising <todo/> long-standing necessity of watchdogs functionally independent of existing (potentially biased) power structures.
 
 ## Warfare:
-Reasons behind initiating warfare include capturing resources, reaffirming dominance, neutralising perceived threats and increasing identity influence. Almost every time, the initial phases include economic, information, cognitive/psy, and identity warfare; hence, it’s not true every time that the party which triggers the physical phase is the initiator of war in a holistic sense.
+Reasons behind initiating warfare include capturing resources, reaffirming dominance, neutralising perceived threats, increasing identity influence.
 
 ## Types of warfare
+Modes of warfare co-occur depending on belligerent capabilities and the degree of escalation. Almost every time, the initial phases include economic, information, cognitive/psy, and identity warfare.
 
 ### Physical warfare
-In this phase, belligerents are actively trying to inflict physical damage to habitat/infrastructure and humans.
+In this mode, belligerents are actively trying to inflict physical damage to habitat/infrastructure and humans.
 
 ### Economic warfare
 Tactics include imposing taxes, blockades, boycotting targeted identity, and the use of existing economic high ground to control market access. Can be used in combination with cognitive, identity warfare in potent combination.
 
 ### Cognitive warfare
-Widely acknowledged methods include propagating information that exploits cognitive biases, emotionally influencing target identity/sub-identity through mass media like news, entertainment media.
+Methods include propagating information that exploits cognitive biases, emotionally influencing target identity/sub-identity through mass media like news, entertainment media. Inducing predisposition against PsyOps.
 
 Combined with economics, economic stimulus can be provided to sub-identity(ies) within a particular region, inducing identity breakaway/loosening, influencing political policy, dictating long-term economic growth, ability at expense to cause civil unrest through stimulus disturbance by increasing economic stress.
 
@@ -35,8 +36,10 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
   
 {: #identity-fishing }
 - **Identity fishing**: Propagating intricately designed information through various media targeted towards specific identity(ies). Perception effects include reinforcing/altering identity wiring, distorting perceived identity norm.
-  
-- Specialised PsyOps: Unlike psy warfare tactics, which are always deployed through the info system/media, ops are devised according to the latest system state developments or to achieve a specific objective to sustain a broader design plan. Psychological/cognitive warfare patterns can be identified through analysis of vast data consisting detailed historical data and current affairs. Specialised PsyOps are limited to specific geolocation
+
+- PsyOps (Psychological operations): Unlike psy warfare tactics, which are always deployed through the info system/media, Operations are devised according to the latest system state developments and to achieve a specific objective to sustain a broader design plan.
+
+- Specialised PsyOps: Psychological/cognitive warfare and standard Ops patterns can be identified through analysis of vast data consisting detailed historical data and current affairs. Specialised PsyOps are conducted within extremely controlled environment and social hierarchies.
   - **Potential objectives** include streamlining, forming hierarchies with required identity composition. Establishing controlled economic networks. Manufacturing controlled leadership/high rank person to influence large populations by abusing hierarchy bias. War games. All objectives are mutually inclusive. Designed to achieve goals without leaking information to public media, and large populations.
   - Activity roles: Attempting explanation of roles using lever mechanism analogy(targets include civilians).
     - Pivot:
@@ -55,11 +58,10 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
       - Self-sustained behaviour after initial phase, easy to assemble new hierarchies using using social truth and connections.
     - Standard PsyOp execution steps include:
       - Performing several methods cyclically over a span of decades and multiple generations of pivot, such as: 
-        - Manufacturing moral high ground. 
-        - Which is provided to people assembling hierarchies (lever), 
-        - Using hierarchies to manipulate the environment of the target to disturb and induce abnormal behaviour. Information achieves state of [social truth](#social-truth) in the locality. 
+        - Manufacturing moral high ground, which is provided to people assembling hierarchies (lever).
+        - Using hierarchies to manipulate the environment of the target to disturb and induce abnormal behaviour. Information achieves state of [social truth](#social-truth) in the locality.
         - Using disturbed behaviour as moral high ground, creating opportunities to repeat the cycle and achieving self-sustained lever behaviour.
-      - Using assembled hierarchies, and <new-tab-link href="https://en.wikipedia.org/wiki/Structure_and_agency">structure and agency</new-tab-link> to carry out various cognitive attacks including:
+      - Using assembled hierarchies with <new-tab-link href="https://en.wikipedia.org/wiki/Structure_and_agency">"Structure and Agency"</new-tab-link> and <new-tab-link href="https://en.wikipedia.org/wiki/Markov_blanket">Markov blanket</new-tab-link> to carry out various cognitive attacks including:
         - [belief break](#belief-break), false-positive and false-negative feedback to the reward system, inflicting mental injuries/traumatising by harassment, taunting, etc. 
         - Force ingestion of information(projecting social truth) through social conversations, social media engagement, etc., reinforcing biases, disinformation, controlling thoughts.
         - Exploiting free will by controlling action space, limiting choices. Induced helplessness.
