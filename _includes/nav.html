@@ -1,0 +1,31 @@
+<nav class="nav-list">
+  <ul>
+    {% for item in site.data.nav %}
+      <li>
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+
+        {% if item.children %}
+          <ul>
+            {% for child in item.children %}
+              <li>
+                <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+
+                {% if child.children %}
+                  <ul>
+                    {% for sub in child.children %}
+                      <li>
+                        <a href="{{ sub.url | relative_url }}">{{ sub.title }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

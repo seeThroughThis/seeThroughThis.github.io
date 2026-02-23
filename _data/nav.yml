@@ -1,38 +1,15 @@
-index:
-  title: Overview
-  nav_order: 1
+- title: Home
+  url: /
 
-mind_arch:
-  title: Mind Architecture
-  nav_order: 2
+- title: Mind Architecture
+  url: /essays/mind_arch
 
-identity:
-  title: Identity
-  nav_order: 3
+- title: Identity
+  url: /essays/identity
 
-reward_system:
-  title: Reward System
-  nav_order: 4
-
-info_system:
-  title: Super Information System
-  nav_order: 5
-
-weaponisation:
-  title: Weaponisation of Psychology
-  nav_order: 98
-
-appendices:
-  title: Appendices
-  nav_order: 99
-  has_children: true
-
-glossary:
-  title: Glossary
-  nav_order: 1
-  parent: Appendices
-
-related_work:
-  title: Related Work
-  nav_order: 2
-  parent: Appendices
+- title: Appendices
+  children:
+    - title: Glossary
+      url: /essays/appendices/glossary
+    - title: Related Work
+      url: /essays/appendices/related_work
