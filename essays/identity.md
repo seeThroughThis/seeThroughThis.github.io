@@ -10,15 +10,16 @@ nav_order: 4
     1. Group affiliation <new-tab-link href="https://en.wikipedia.org/wiki/Social_identity_theory">(Social identity theory)</new-tab-link>
     2. Territorial association.
   - Individuality / individual role WRT two traits.
-- Evolutionarily, and even in present-time tribal settings, the two traits are near-compulsory, mutually inclusive.
+- Evolutionarily, and even in present-time tribal settings, the two traits are near-compulsory mutually inclusive.
 - Economic, trading activities between identities ease up two traits. Conversely, resource scarcity / high economic stress intensifies identity and biological competition. This identity-economy seesaw effect can be used to form an integrated, sustainable network of regions/identities.
 - In modern times, the current implementation of the nation-state-culture system induces a sense of identity with decoupled “two traits” without safeguards against identity exploitation of large populations.
 - Identity is constantly exploited through political/economic/violent means worldwide (inter-national, intra-national).
 - Examples of variables across which identity can be leveraged or exploited:
   - Territorial provocations: Challenging territorial/boundaries status quo, territory partitioning/border redrawing to create new disputes.
+  {: #id-variables}
   - **Non-territorial identity variables**: countries/states, communities, sub-communities, ideologies (left, right, capitalism, communism), physical attributes (various skin, hair colours, mono-lid eyes), religions, ethnicities, languages, gender/sexual orientations and recently trending generations (millennial, Gen Z, etc.)
 - On the positive side, Achievements are celebrated in identity crossovers such as sport victories, technological, scientific advancements etc.
-- Tradeoff between individuality and two-traits is observable is social hierarchy. Individual identity/role is powerful and influential from high rank [nodes](/essays/appendices/glossary#social-node) / personalities POV whereas strength of large populations comes from being in cohesion through two-traits.
+- Balanced incorporation of the two-traits and individuality can promote social responsibility and prevent reward-maximising behaviour among individuals. Tradeoff between individuality and two-traits is observable is social hierarchy. Individual identity/role is powerful and influential from high rank [nodes](/essays/appendices/glossary#social-node) / personalities POV whereas strength of large populations comes from being in cohesion through two-traits.
 
 <p>
   <p style="text-align: center; font-style: italic">Identity tradeoff</p>
@@ -40,12 +41,13 @@ nav_order: 4
 
 {: #ic-effects }
 ### Behavioural traits of active identity crisis
-- Increased sensitivity to overall environmental stimuli. Increased vulnerability to addictions, naturally selected high reward functions/stimuli, e.g. Sexual attraction/porn, social stimuli, food cravings. Increased emotional response, volatility, including impulsivity, mood polarity.
+- Increased sensitivity to overall environmental stimuli. Increased vulnerability to addictions, naturally selected high reward functions/stimuli, e.g. Sexual attraction/porn, social stimuli, food cravings. Increased emotional response, volatility, including impulsivity, mood polarity. Amplified cognitive dissonance.
 - Discomfort in society, low confidence, mimicking the behaviour of others, normative social influence, pleasing behaviour.
 - Unrestrained emotional and reward-driven thinking/behaviour. In order to rebuild the cognitive model, going through existing memories/data, trying to find patterns and possibilities leading to daydreaming, self-talk, manifesting as hallucination.
 - Hyperactivity (I believe, hyperactivity/short attention leads to necessary stochasticity (randomness) while going through existing memories/data (retraining) and avoid forming biased cognitive model)
 - Various dualities add up to cognitive dissonance:
   - Increased sexual attraction but reluctancy due to state of crisis and absence of social, territorial safety.
+  - Modern social design out of sync with two-traits.
 
 ### About recovery,
 - Extreme information-dense modern environment is the cause behind susceptibility to identity crisis, as well as the obstacle for recovery. Due to the same,the victim is prone to identity foreclosure.
