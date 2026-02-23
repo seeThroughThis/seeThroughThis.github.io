@@ -1,6 +1,6 @@
 ---
-title: Super Information System
-nav_order: 5
+title: {{ site.data.nav[page.name | split: "." | first].title }}
+nav_order: {{ site.data.nav[page.name | split: "." | first].nav_order }}
 ---
 
 # Super information system (SIS)/Super structure

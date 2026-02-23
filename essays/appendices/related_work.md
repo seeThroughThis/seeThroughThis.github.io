@@ -1,7 +1,7 @@
 ---
-title: Related Work
-parent: Appendices
-nav_order: 2
+title: {{ site.data.nav[page.name | split: "." | first].title }}
+nav_order: {{ site.data.nav[page.name | split: "." | first].nav_order }}
+parent: {{ site.data.nav[page.name | split: "." | first].parent }}
 ---
 
 # Related work

@@ -1,6 +1,6 @@
 ---
-title: Mind Architecture
-nav_order: 2
+title: {{ site.data.nav[page.name | split: "." | first].title }}
+nav_order: {{ site.data.nav[page.name | split: "." | first].nav_order }}
 ---
 
 
