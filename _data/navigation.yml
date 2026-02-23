@@ -1,15 +1,26 @@
-- title: Home
-  url: /
+essays/identity.md:
+  title: "Identity"
+  nav_order: 2
 
-- title: Mind Architecture
-  url: /essays/mind_arch
+essays/reward_system.md:
+  title: "Reward System"
+  nav_order: 3
 
-- title: Identity
-  url: /essays/identity
+essays/appendices/appendices.md:
+  title: "Appendices"
+  nav_order: 99
+  has_children: true
 
-- title: Appendices
-  children:
-    - title: Glossary
-      url: /essays/appendices/glossary
-    - title: Related Work
-      url: /essays/appendices/related_work
+essays/appendices/glossary.md:
+  title: "Glossary"
+  nav_order: 1
+  parent: "Appendices"
+
+essays/appendices/related_work.md:
+  title: "Related Work"
+  nav_order: 2
+  parent: "Appendices"
+
+index.md:
+  title: "Overview"
+  nav_order: 1

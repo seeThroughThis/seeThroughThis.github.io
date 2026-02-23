@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% assign page_data = site.data.navigation[page.path] %}
+{% if page_data %}
+  {% assign page.title = page_data.title %}
+  {% assign page.nav_order = page_data.nav_order %}
+  {% if page_data.parent %}
+    {% assign page.parent = page_data.parent %}
+  {% endif %}
+  {% if page_data.has_children %}
+    {% assign page.has_children = page_data.has_children %}
+  {% endif %}
+{% endif %}
+
+{{ content }}
