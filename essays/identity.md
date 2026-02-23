@@ -1,7 +1,4 @@
----
-title: {{ site.data.nav[page.name | split: "." | first].title }}
-nav_order: {{ site.data.nav[page.name | split: "." | first].nav_order }}
----
+
 
 # Identity
 - Single most important evolutionary behaviour from social stability POV.

@@ -1,9 +1,3 @@
----
-title: {{ site.data.nav[page.name | split: "." | first].title }}
-nav_order: {{ site.data.nav[page.name | split: "." | first].nav_order }}
-parent: {{ site.data.nav[page.name | split: "." | first].parent }}
----
-
 # Related work
 
 Collation of work that is related, aligned or overlapping with this project or any subset of the project.

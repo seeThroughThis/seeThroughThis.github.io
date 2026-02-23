@@ -1,7 +1,4 @@
----
-title: {{ site.data.nav[page.name | split: "." | first].title }}
-nav_order: {{ site.data.nav[page.name | split: "." | first].nav_order }}
----
+
 
 # Super information system (SIS)/Super structure
 - An Information system is an ecosystem of components (people, data/information, technologies) capable of performing the following functions in a specific context.
