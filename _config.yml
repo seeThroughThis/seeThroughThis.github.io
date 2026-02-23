@@ -20,4 +20,4 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: page-from-data
+      layout: page_from_data
