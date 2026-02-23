@@ -14,6 +14,6 @@ aux_links:
     - "https://www.linkedin.com/in/omkar-killarikar/"
   "on GitHub":
     - "https://github.com/seeThroughThis/seeThroughThis.github.io"
-
 aux_links_new_tab: true
 footer_content: ""
+nav_enabled: false
