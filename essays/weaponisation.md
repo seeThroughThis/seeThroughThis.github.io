@@ -1,4 +1,7 @@
-
+---
+title: Weaponisation of Psychology
+nav_order: 98
+---
 
 # Weaponisation of human psychology.
 Listing terms and possible methods in brief for documentation purposes. In the context of economic, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations to be free of its influence, whether induced or natural, emphasising <todo/> long-standing necessity of watchdogs functionally independent of existing (potentially biased) power structures.

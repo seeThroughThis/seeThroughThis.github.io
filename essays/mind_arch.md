@@ -1,3 +1,7 @@
+---
+title: Mind Architecture
+nav_order: 2
+---
 
 
 # Architecture of Mind from functionality POV

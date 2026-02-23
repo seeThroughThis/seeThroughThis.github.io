@@ -1,3 +1,9 @@
+---
+title: Glossary
+nav_order: 1
+parent: Appendices
+---
+
 ## Two Traits (of Identity)
 The foundational components of identity:
 

@@ -1,4 +1,7 @@
-
+---
+title: Super Information System
+nav_order: 5
+---
 
 # Super information system (SIS)/Super structure
 - An Information system is an ecosystem of components (people, data/information, technologies) capable of performing the following functions in a specific context.

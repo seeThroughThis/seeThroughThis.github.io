@@ -1,3 +1,9 @@
+---
+title: Related Work
+nav_order: 2
+parent: Appendices
+---
+
 # Related work
 
 Collation of work that is related, aligned or overlapping with this project or any subset of the project.

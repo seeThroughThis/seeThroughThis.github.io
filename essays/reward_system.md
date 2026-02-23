@@ -1,3 +1,7 @@
+---
+title: Reward System
+nav_order: 3
+---
 
 # Reward system
 - This system promotes us taking actions and learn behaviour that leads to benefits and avoiding detrimental situations, playing an important role in building a cognitive model.
