@@ -31,18 +31,21 @@ nav_order: 2
 ### Emotions:
 - Realtime emotional response to incoming data/experiences.
 ### Cognitive biases: 
-- Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>.
-- Sampling biases/data biases:
+- Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>. Below is attempt to collate most of them into few classes.
+- **Sampling biases/data biases**:
   - Perception of specific event, information is supported by the existing contextual information which may not be accurate sampling of actual reality leading to skewed perception.
-  - Even if existing information is a good sample, the sample actually to used for perception, decision-making maybe be skewed due to incoming information.
   - Information/perception about self is primarily driven by environmental/social feedback which can be skewed leading to distorted self-perception as does the prolonged thinking about either "positive" or "negative" points.
-  - If information is emotionally stimulating, it will influence decision-making/conclusion and memory retrieval WRT emotional valence.
   - Various personal experiences including emotional, acts as data to allow empathising with respective context. Absence of contextual experiences may create empathy gap.
-- Identity biases:
-  - Prioritising self group affiliation over other identities.
-  - Tendency to accept and propagate information within identity.
-  - Groupthink, herd behaviour, hierarchy, stereotyping bias.
-  - Identity biases coupled with sampling bias influences perceived norm of [identity variables](/essays/identity#id-variables)
+- **Association biases**:
+  - Association between information/data is mainly driven by semantic meaning but prone to malformation if reinforced by environment.
+  - Even if existing information is a good sample, the sample actually to used for perception, decision-making maybe be skewed due to incoming information.
+  - Within context, recently learned or frequently accessed/reinforced information is likely to influence thought process regardless of relevance.
+  - If information is emotionally stimulating, its association tend to influence decision-making/conclusion and memory retrieval WRT emotion and its valence.
+- **Identity biases**:
+  - Prioritising self group affiliation over other identities. Tendency to accept and propagate information within identity.
+  - Groupthink, herd behaviour, hierarchy bias.
+  - Identity biases coupled with sampling bias influences perceived norm of various [identity variables](/essays/identity#id-variables), cultural beliefs and practices.
+  - Coupled with association bias leads to identity stereotyping.
 
 ### [Reward system](/essays/reward_system)
 ### Learned information

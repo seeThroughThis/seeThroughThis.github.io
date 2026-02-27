@@ -45,9 +45,9 @@ nav_order: 4
 - Discomfort in society, low confidence, mimicking the behaviour of others, normative social influence, pleasing behaviour.
 - Unrestrained emotional and reward-driven thinking/behaviour. In order to rebuild the cognitive model, going through existing memories/data, trying to find patterns and possibilities leading to daydreaming, self-talk, manifesting as hallucination.
 - Hyperactivity (I believe, hyperactivity/short attention leads to necessary stochasticity (randomness) while going through existing memories/data (retraining) and avoid forming biased cognitive model)
-- Various `dualities add up to cognitive dissonance:
+- Various dualities add up to cognitive dissonance:
   - Increased sexual attraction but reluctancy due to state of crisis and absence of social, territorial safety.
-  - Modern social design out of sync with two-traits.
+  - Modern social design out of sync with evolutionary two-traits.
 
 ### About recovery,
 - Extreme information-dense modern environment is the cause behind susceptibility to identity crisis, as well as the obstacle for recovery. Due to the same,the victim is prone to identity foreclosure.

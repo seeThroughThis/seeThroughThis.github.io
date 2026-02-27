@@ -34,7 +34,7 @@ The strategic use of information and incentives to influence perception, belief 
 Planned activities that employ information, messaging, and environmental manipulation to influence sentiment, attitude and behaviors in support of broader objectives.
 
 ## Super Information System (SIS)
-A socio-technical system integrating human behavior, information flows, and structural constraints into a single analytical unit.
+A socio-technical system integrating human  behavior, information flows, and structural constraints into a single analytical unit.
 
 {: #social-node }
 ## Social Node

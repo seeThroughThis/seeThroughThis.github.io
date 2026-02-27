@@ -4,7 +4,7 @@ nav_order: 98
 ---
 
 # Weaponisation of human psychology.
-Listing terms and possible methods in brief for documentation purposes. In the context of economic, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations to be free of its influence, whether induced or natural, emphasising <todo/> long-standing necessity of watchdogs functionally independent of existing (potentially biased) power structures.
+Listing terms and possible methods in brief for documentation purposes. In the context of economic, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations and watchdogs to evaluate whether a specific occurrence is emerged or artificially induced.
 
 ## Warfare:
 Reasons behind initiating warfare include capturing resources, reaffirming dominance, neutralising perceived threats, increasing identity influence.
@@ -29,11 +29,11 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
 {: #belief-break }
 - **belief break**: Any observed/perceived information or experiences, especially in a non-negligible quantity and in a relevant time span, that is contradictory/not aligned to existing beliefs within the context can render that belief model false. In other words, there is a non-negligible error/discrepancy between the mind’s current belief (conscious reality) and actual reality WRT perceived information. The perceived information is subject to manipulation to cause belief break.
 
-- We [discussed here](/essays/identity) that identity (two traits) is a critical basis for social collaboration, group behaviour, and biological competition; hence, regardless of the phase of the warfare/intensity of biological competition, identity is the core component at play.
+- We [discussed here](/essays/identity) how identity (two traits) is a critical basis for social collaboration, group behaviour, and biological competition; hence, regardless of the phase of the warfare/intensity of biological competition, identity is the core component at play.
 
 {: #identity-wiring }
 - **Identity wiring**: Identity wiring refers to the design of the sentiments and opinions of various identities towards each other and the self, driven by stereotyping, association bias. These beliefs are formed by social truths, e.g. information propagated through social talks, mass media, and historical records. This heavily influences further/ongoing warfare of any mode.
-  
+
 {: #identity-fishing }
 - **Identity fishing**: Propagating intricately designed information through various media targeted towards specific identity(ies). Perception effects include reinforcing/altering identity wiring, distorting perceived identity norm.
 
@@ -44,13 +44,14 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
   - Activity roles: Attempting explanation of roles using lever mechanism analogy(targets include civilians).
     - Pivot:
       - This includes an individual primary target and the target’s close social nodes, e.g. family members.
-      - Subject to: Extreme mental stress, induced identity crisis, mental disorders and loneliness. Physical health deterioration. Recurrent suicidal thoughts.
+      - Subject to: Extreme mental stress, induced identity crisis, mental disorders and loneliness. Physical health deterioration. Induced isolation, denial of aid leading to recurrent suicidal thoughts, potentially aggressive behaviour.
     - Orchestrators(deep hierarchies):
       - Orchs are like an acting force on the lever and the ones who devise plans and initiate execution.
-      - Relatively high awareness about actual truths, cognitive/psywar tactics, under less influence of biases and social truths, hence in a position to abuse and exploit unaware people.
+      - Relatively high awareness about actual truths, cognitive/psy war tactics, under less influence of biases and social truths, hence in a position to abuse and exploit unaware people.
       - Responsible for manufacturing moral high ground, social truths to initiate psyop.
       - Responsible for selecting pivot based on geolocational identity design and pivot's low social connections in close proximity <new-tab-link href="https://en.wikipedia.org/wiki/Social_network">social network</new-tab-link>, enabling social isolation.
       - Weaponisation of psychology is not widely acknowledged, enabling such social entities to engage in covert ops without checks and balances.
+      - Most likely network of individuals spanning various power structures across various identities.
     - Lever:
       - Consists of a large number of people assembled in multiple social hierarchies in multiple geolocations and points in time.
       - Assembled to manipulate the environment of the pivot to influence behaviour and gather information.
@@ -65,11 +66,14 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
         - [belief break](#belief-break), false-positive and false-negative feedback to the reward system, inflicting mental injuries/traumatising by harassment, taunting, etc. 
         - Force ingestion of information(projecting social truth) through social conversations, social media engagement, etc., reinforcing biases, disinformation, controlling thoughts.
         - Exploiting free will by controlling action space, limiting choices. Induced helplessness.
-        - Pivot's high sensitivity towards informational social influence, normative social influence, and naturally selected high reward functions are exploited. Inducing addictions. 
-        - Controlling cash flow/economic stress. Op execution, information gathering via digital and non-digital means.
+        - Pivot's high sensitivity towards informational social influence, normative social influence, and naturally selected high reward functions are exploited. Inducing addictions.
+        - Controlling cash flow/economic stress. Keeping pivot in controlled business/career network with ability to disrupt economic stability.
+        - Repetitively inflicting mental injuries through various identities/communities if aim include creating "unbiased" leadership.
+        - Op execution, information gathering via digital and non-digital means.
         - Recreating similar experiences for close social nodes, inducing emotional normal and deterring aid engagement.
         - Disrupting and deteriorating the social network of the pivot. Antagonising close social nodes (e.g. family members, friends).
         - Abusing widespread disinformation about human behaviour, mental disorders and equipping labelling, stereotyping against pivot.
+        - Coercing lever into actions leading to adverse relations within lever and with pivot.
 
   {: #relations-reset }
   - Relations reset: This is an individual-level cognitive attack, which we'll try to understand using a diagram below, where we'll attempt visualising personal social network.
