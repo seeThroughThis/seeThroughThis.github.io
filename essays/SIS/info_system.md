@@ -1,6 +1,7 @@
 ---
 title: Super Information System
 nav_order: 5
+has_children: true
 ---
 
 # Super information system (SIS)/Super structure

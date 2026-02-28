@@ -44,7 +44,7 @@ nav_order: 4
 - Increased sensitivity to overall environmental stimuli. Increased vulnerability to addictions, naturally selected high reward functions/stimuli, e.g. Sexual attraction/porn, social stimuli, food cravings. Increased emotional response, volatility, including impulsivity, mood polarity. Amplified cognitive dissonance.
 - Discomfort in society, low confidence, mimicking the behaviour of others, normative social influence, pleasing behaviour.
 - Unrestrained emotional and reward-driven thinking/behaviour. In order to rebuild the cognitive model, going through existing memories/data, trying to find patterns and possibilities leading to daydreaming, self-talk, manifesting as hallucination.
-- Hyperactivity (I believe, hyperactivity/short attention leads to necessary stochasticity (randomness) while going through existing memories/data (retraining) and avoid forming biased cognitive model)
+- Hyperactivity (I believe, hyperactivity/short attention leads to necessary stochasticity (randomness) and exploratory behaviour while information gathering, going through existing memories/data (retraining) to avoid forming biased cognitive model)
 - Various dualities add up to cognitive dissonance:
   - Increased sexual attraction but reluctancy due to state of crisis and absence of social, territorial safety.
   - Modern social design out of sync with evolutionary two-traits.
