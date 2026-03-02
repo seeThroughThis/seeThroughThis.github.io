@@ -40,11 +40,11 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
 - PsyOps (Psychological operations): Unlike psy warfare tactics, which are always deployed through the info system/media, Operations are devised according to the latest system state developments and to achieve a specific objective to sustain a broader design plan.
 
 - Specialised PsyOps: Psychological/cognitive warfare and standard Ops patterns can be identified through analysis of vast data consisting detailed historical data and current affairs. Specialised PsyOps are conducted within extremely controlled environment and social hierarchies.
-  - **Potential objectives** include streamlining, forming hierarchies with required identity composition. Establishing controlled economic networks. Manufacturing controlled leadership/high rank person to influence large populations by abusing hierarchy bias. War games. All objectives are mutually inclusive. Designed to achieve goals without leaking information to public media, and large populations.
+  - **Potential objectives** include streamlining, forming hierarchies with required identity composition. Establishing controlled economic networks. Manufacturing controlled leadership/high rank person to influence large populations by abusing hierarchy bias. War games. All objectives are mutually inclusive. Designed to achieve goals without leaking information to public media.
   - Activity roles: Attempting explanation of roles using lever mechanism analogy(targets include civilians).
     - Pivot:
       - This includes an individual primary target and the target’s close social nodes, e.g. family members.
-      - Subject to: Extreme mental stress, induced identity crisis, mental disorders and loneliness. Physical health deterioration. Induced isolation, denial of aid leading to recurrent suicidal thoughts, potentially aggressive behaviour.
+      - Subject to: Extreme mental stress, induced identity crisis, mental disorders and loneliness. Physical health deterioration. Recurrent suicidal thoughts, potential aggressive behaviour.
     - Orchestrators(deep hierarchies):
       - Orchs are like an acting force on the lever and the ones who devise plans and initiate execution.
       - Relatively high awareness about actual truths, cognitive/psy war tactics, under less influence of biases and social truths, hence in a position to abuse and exploit unaware people.
@@ -63,12 +63,15 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
         - Using hierarchies to manipulate the environment of the target to disturb and induce abnormal behaviour. Information achieves state of [social truth](#social-truth) in the locality.
         - Using disturbed behaviour as moral high ground, creating opportunities to repeat the cycle and achieving self-sustained lever behaviour.
       - Using assembled hierarchies with <new-tab-link href="https://en.wikipedia.org/wiki/Structure_and_agency">"Structure and Agency"</new-tab-link> and <new-tab-link href="https://en.wikipedia.org/wiki/Markov_blanket">Markov blanket</new-tab-link> to carry out various cognitive attacks including:
-        - [belief break](#belief-break), false-positive and false-negative feedback to the reward system, inflicting mental injuries/traumatising by harassment, taunting, etc. 
-        - Force ingestion of information(projecting social truth) through social conversations, social media engagement, etc., reinforcing biases, disinformation, controlling thoughts.
-        - Exploiting free will by controlling action space, limiting choices. Induced helplessness.
+        - [belief break](#belief-break), false-positive and false-negative feedback to the reward system.
+        - Force ingestion of information(projecting social truth) through social conversations, social media engagement, etc., reinforcing biases, disinformation, indirectly controlling thoughts.
+        - Exploiting free will by controlling action space, limiting choices.
         - Pivot's high sensitivity towards informational social influence, normative social influence, and naturally selected high reward functions are exploited. Inducing addictions.
         - Controlling cash flow/economic stress. Keeping pivot in controlled business/career network with ability to disrupt economic stability.
-        - Repetitively inflicting mental injuries through various identities/communities if aim include creating "unbiased" leadership.
+        - Repetitively inflicting mental injuries through-
+          - harassment, taunting through various identities if aim include creating unbiased leadership.
+          - Sabotaging regular social transactions/engagements and availing services.
+          - Inducing helplessness by continual social isolation and denial of aid.
         - Op execution, information gathering via digital and non-digital means.
         - Recreating similar experiences for close social nodes, inducing emotional normal and deterring aid engagement.
         - Disrupting and deteriorating the social network of the pivot. Antagonising close social nodes (e.g. family members, friends).
