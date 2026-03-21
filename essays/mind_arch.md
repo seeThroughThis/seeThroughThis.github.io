@@ -26,12 +26,12 @@ nav_order: 2
 </p>
 
 ## Perception
-- Since birth, cognitive model develops continuously from information is gathered from environment in recurrent process. 
+- Since birth, cognitive model develops continuously from information is gathered from environment in recurrent process.
 - Information perception involves below co-occurring functions:
 ### Emotions:
 - Realtime emotional response to incoming data/experiences.
 ### Cognitive biases: 
-- Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>. Below is attempt to collate most of them into few classes.
+- Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>. Below is attempt to merge  most of them into few classes.
 - **Sampling biases/data biases**:
   - Perception of specific event, information is supported by the existing contextual information which may not be accurate sampling of actual reality leading to skewed perception.
   - Information/perception about self is primarily driven by environmental/social feedback which can be skewed leading to distorted self-perception as does the prolonged thinking about either "positive" or "negative" points.

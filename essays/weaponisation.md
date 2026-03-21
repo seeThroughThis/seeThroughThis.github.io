@@ -4,19 +4,24 @@ nav_order: 98
 ---
 
 # Weaponisation of human psychology.
-Listing terms and possible methods in brief for documentation purposes. In the context of economic, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations and watchdogs to evaluate whether a specific occurrence is emerged or artificially induced.
+Listing terms and possible methods in brief for documentation purpose.
+
+In the context of economic, information, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations and watchdogs to evaluate whether a specific occurrence is emerged or artificially induced.
+
+## Biological competition
+Lifeforms compete with each other —intra-species, inter-species— for resources needed for survival on all, micro and macro scales. We are capable of abstract thought, planning and managing resources despite which game theory dynamics can lead to intense form of biological competition which is warfare.
 
 ## Warfare:
 Reasons behind initiating warfare include capturing resources, reaffirming dominance, neutralising perceived threats, increasing identity influence.
 
-## Types of warfare
+## Types of warfare                               
 Modes of warfare co-occur depending on belligerent capabilities and the degree of escalation. Almost every time, the initial phases include economic, information, cognitive/psy, and identity warfare.
 
 ### Physical warfare
 In this mode, belligerents are actively trying to inflict physical damage to habitat/infrastructure and humans.
 
 ### Economic warfare
-Tactics include imposing taxes, blockades, boycotting targeted identity, and the use of existing economic high ground to control market access. Can be used in combination with cognitive, identity warfare in potent combination.
+Tactics include imposing taxes, blockades, boycotting targeted identity, and the use of existing economic high ground to control market access, Disrupting, controlling supply chains. Can be used with cognitive, identity warfare in potent combination.
 
 ### Cognitive warfare
 Methods include propagating information that exploits cognitive biases, emotionally influencing target identity/sub-identity through mass media like news, entertainment media. Inducing predisposition against PsyOps.
