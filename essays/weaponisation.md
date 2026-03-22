@@ -9,7 +9,7 @@ Listing terms and possible methods in brief for documentation purpose.
 In the context of economic, information, cognitive/psy warfare, many of the methods/phenomena are not inherently negative and can occur naturally, but the high complexity of the matter makes it practically impossible for large populations and watchdogs to evaluate whether a specific occurrence is emerged or artificially induced.
 
 ## Biological competition
-Lifeforms compete with each other —intra-species, inter-species— for resources needed for survival on all, micro and macro scales. We are capable of abstract thought, planning and managing resources despite which game theory dynamics can lead to intense form of biological competition which is warfare.
+Lifeforms compete with each other (intra-species, inter-species) for resources needed for survival on all, micro and macro scales. In humans, despite capacity of abstract thought, planning and coordination can still escalate to intense form of biological competition which is warfare.
 
 ## Warfare:
 Reasons behind initiating warfare include capturing resources, reaffirming dominance, neutralising perceived threats, increasing identity influence.
