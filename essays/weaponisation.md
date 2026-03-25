@@ -44,9 +44,9 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
 
 - PsyOps (Psychological operations): Unlike psy warfare tactics, which are always deployed through the info system/media, Operations are devised according to the latest system state developments and to achieve a specific objective to sustain a broader design plan.
 
-- Specialised PsyOps: Psychological/cognitive warfare and standard Ops patterns can be identified through analysis of vast data consisting detailed historical data and current affairs. Specialised PsyOps are conducted within extremely controlled environment and social hierarchies.
+- Specialised PsyOps: Psychological/cognitive warfare and standard op patterns can be identified through analysis of vast data consisting detailed historical data and current affairs. Specialised PsyOps are conducted within extremely controlled environment and social hierarchies functioning cohesively through meticulous information abstractions. Targets likely to be civilians.
   - **Potential objectives** include streamlining, forming hierarchies with required identity composition. Establishing controlled economic networks. Manufacturing controlled leadership/high rank person to influence large populations by abusing hierarchy bias. War games. All objectives are mutually inclusive. Designed to achieve goals without leaking information to public media.
-  - Activity roles: Attempting explanation of roles using lever mechanism analogy(targets include civilians).
+  - Activity roles: Attempting explanation of roles using lever mechanism analogy
     - Pivot:
       - This includes an individual primary target and the target’s close social nodes, e.g. family members.
       - Subject to: Extreme mental stress, induced identity crisis, mental disorders and loneliness. Physical health deterioration. Recurrent suicidal thoughts, potential aggressive behaviour.
@@ -58,15 +58,15 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
       - Weaponisation of psychology is not widely acknowledged, enabling such social entities to engage in covert ops without checks and balances.
       - Most likely network of individuals spanning various power structures across various identities.
     - Lever:
-      - Consists of a large number of people assembled in multiple social hierarchies in multiple geolocations and points in time.
+      - Consists of a large number of people assembled in multiple social hierarchies in multiple geolocations and points in time. Potentially include public agencies.
       - Assembled to manipulate the environment of the pivot to influence behaviour and gather information.
       - Most people are under the heavy influence of biases such as <new-tab-link href="https://en.wikipedia.org/wiki/Groupthink">groupthink</new-tab-link>, cognitive/psy war tactics, hence vulnerable to coercion by orchestrators.
-      - Self-sustained behaviour after initial phase, easy to assemble new hierarchies using using social truth and connections.
+      - Self-sustained behaviour after initial phase, easy to assemble new hierarchies using social truth.
     - Standard PsyOp execution steps include:
       - Performing several methods cyclically over a span of decades and multiple generations of pivot, such as: 
         - Manufacturing moral high ground, which is provided to people assembling hierarchies (lever).
-        - Using hierarchies to manipulate the environment of the target to disturb and induce abnormal behaviour. Information achieves state of [social truth](#social-truth) in the locality.
-        - Using disturbed behaviour as moral high ground, creating opportunities to repeat the cycle and achieving self-sustained lever behaviour.
+        - Using hierarchies to manipulate the environment of the target to disturb and induce socially abnormal behaviour, addiction. Potentially gathering evidence. Information achieves state of [social truth](#social-truth) in the locality.
+        - Using disturbed behaviour as moral high ground, creating opportunities to repeat the cycle and achieving self-sustained herd behaviour from lever.
       - Using assembled hierarchies with <new-tab-link href="https://en.wikipedia.org/wiki/Structure_and_agency">"Structure and Agency"</new-tab-link> and <new-tab-link href="https://en.wikipedia.org/wiki/Markov_blanket">Markov blanket</new-tab-link> to carry out various cognitive attacks including:
         - [belief break](#belief-break), false-positive and false-negative feedback to the reward system.
         - Force ingestion of information(projecting social truth) through social conversations, social media engagement, etc., reinforcing biases, disinformation, indirectly controlling thoughts.

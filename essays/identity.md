@@ -48,7 +48,6 @@ nav_order: 4
 - Various dualities add up to cognitive dissonance:
   - Heightened sexual attraction/pair-bonding drive but reluctancy forming relations due to state of crisis and absence of social, territorial safety.
   - Modern social design out of sync with evolutionary two-traits.
-  - Social navigation — loss of belief in social institutions, systems.
 
 ### About recovery,
 - Extreme information-dense modern environment is the cause behind susceptibility to identity crisis, as well as the obstacle for recovery. Due to the same,the victim is prone to identity foreclosure.
