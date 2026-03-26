@@ -31,7 +31,7 @@ nav_order: 2
 ### Emotions:
 - Realtime emotional response to incoming data/experiences.
 ### Cognitive biases: 
-- Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>. Below is attempt to merge  most of them into few classes.
+- Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>. Below is attempt to merge most of them into few classes.
 - **Sampling biases/data biases**:
   - Perception of specific event, information is supported by the existing contextual information which may not be accurate sampling of actual reality leading to fallacy.
   - Information/perception about self is primarily driven by environmental/social feedback. Distorted feedback lead to distorted self-perception as does the prolonged thinking about either "positive" or "negative" points.
@@ -46,7 +46,7 @@ nav_order: 2
   - Prioritising self group affiliation over other identities in various situations including economic activity. Tendency to accept and propagate information within identity.
   - Accepting information with high social reference.
   - Acceptability of information, behaviour and perception toward others based on perceived ranks within social hierarchy.
-  - Identity biases coupled with sampling and association:
+  - Identity biases coupled with data sampling and association:
     - Influences perceived norm of various [identity variables](/essays/identity#id-variables), cultural beliefs and practices.
     - Sentiments and opinion towards self-identity and other identities (identity wiring)
   - Heightened emotional response to information regarding self two-traits, enabling collective response to threats.
