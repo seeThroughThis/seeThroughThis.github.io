@@ -24,7 +24,7 @@ Full set of habits, beliefs, response patterns to environmental stimuli of an in
 ## Cognitive dissonance
 A psychological state of discomfort that arises when an individual holds conflicting beliefs, attitudes, or behaviors. This leads to compulsion/motivation to reduce the inconsistency by changing beliefs, justifying actions, or altering behavior.
 
-+Extension— Dissonance arising from tension between evolutionary behaviour and modern social constraints.
++Extension— Dissonance arising from tension between evolutionary behaviour and modern social constraints due to lack of thorough education.
 
 ## Empirical truth
 Empirical truth can be verified using observations through scientific methods.

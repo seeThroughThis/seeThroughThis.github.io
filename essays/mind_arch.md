@@ -66,18 +66,20 @@ Considering this, Individual will have to keep gathering information within cont
 ---
 
 - **Association biases**:
-  - Association between information/data is supposed to be driven by semantic meaning but prone to malformation if reinforced by environment especially phenomena which are not observed first hand.
+  - Association between information/data is supposed to be driven by semantic meaning but prone to malformation if reinforced by environment especially not observed first hand or is abstract.
   - Even if existing information is a good sample, the sample actually to used for perception, decision-making maybe be inaccurate due to incoming information or environmental constraints.
   - Within context, recently learned or frequently accessed/reinforced information is likely to influence thought process regardless of relevance.
   - If information is emotionally stimulating, its association tend to influence decision-making, conclusion and memory retrieval with respect to emotion and its valence.
 - **Identity biases**:
   - Prioritising self group affiliation over other identities in various situations including economic activity. Tendency to accept and propagate information within identity.
-  - Accepting information with high social reference.
-  - Acceptability of information, behaviour and perception toward others based on perceived ranks within social hierarchy.
+  - Accepting information with high social reference. Behaving based on social truth despite awareness about it being factually false.
+  - Acceptability of information and behaviour based on perceived ranks within social hierarchy.
+  - Heightened emotional response to information regarding self two-traits, enabling collective response to threats.
+  - Tendency to live close community with shared identity variables.
+  - Tendency to identify encultured behaviour as inborn/genetic.
   - Identity biases coupled with data sampling and association:
     - Influences perceived norm of various [identity variables](/essays/identity#id-variables), cultural beliefs and practices.
-    - Sentiments and opinion towards self-identity and other identities (identity wiring)
-  - Heightened emotional response to information regarding self two-traits, enabling collective response to threats.
+    - Sentiments and opinion towards self-identity and other identities (identity wiring).
 
 ### [Reward system](/essays/reward_system)
 ### Learned information

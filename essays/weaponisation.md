@@ -63,7 +63,7 @@ Combined with economics, economic stimulus can be provided to sub-identity(ies) 
       - Most people are under the heavy influence of biases such as <new-tab-link href="https://en.wikipedia.org/wiki/Groupthink">groupthink</new-tab-link>, cognitive/psy war tactics, hence vulnerable to coercion by orchestrators.
       - Self-sustained behaviour after initial phase, easy to assemble new hierarchies using social truth.
     - Standard PsyOp execution steps include:
-      - Performing several methods cyclically over a span of decades and multiple generations of pivot, such as: 
+      - Performing several methods cyclically over a span of decades and multiple generations of pivot, such as:
         - Manufacturing moral high ground, which is provided to people assembling hierarchies (lever).
         - Using hierarchies to manipulate the environment of the target to disturb and induce socially abnormal behaviour, addiction. Potentially gathering evidence. Information achieves state of [social truth](#social-truth) in the locality.
         - Using disturbed behaviour as moral high ground, creating opportunities to repeat the cycle and achieving self-sustained herd behaviour from lever.
