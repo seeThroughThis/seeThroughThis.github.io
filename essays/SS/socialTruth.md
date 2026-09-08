@@ -1,7 +1,7 @@
 ---
 title: Social Truth
-nav_order: 1
-parent: Super Information System
+nav_order: 2
+parent: Super Structure
 ---
 
 ## Nodes
