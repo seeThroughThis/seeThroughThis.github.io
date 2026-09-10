@@ -20,7 +20,7 @@ Easiest to comprehend. Physical resources such as territory/land, minerals, ores
 
 ## Super Information System (SIS)
 
-Any Information system (IS) is an ecosystem/network of elements (people, data/information, technologies) capable of performing the following functions in a specific context.
+Any information system (IS) is an ecosystem/network of elements (people, data/information, technologies) capable of performing the following functions in a specific context.
 - Collect data
 - Store data
 - Process/alter data
