@@ -5,7 +5,7 @@ parent: Appendices
 ---
 
 ## Terminology
-The set of terms and their definitions that are agreed upon allows flawless communication and reduces ambiguity.
+The set of terms and their definitions that are agreed upon, allowing flawless communication and minimise ambiguity.
 
 ## Two Traits (of Identity)
 The foundational components of identity:
@@ -14,7 +14,7 @@ Territorial association (“Where do we collectively operate and take responsibi
 Historically coupled through evolution. Read more.
 
 ## Belief Break
-A threshold event in which sustained contradiction between beliefs and perceived reality renders a value or belief model unreliable, causing low confidence within context and triggering accelerated and often noisy belief updating.
+A threshold event in which sustained contradiction between beliefs and perceived reality renders a value or belief model unreliable, causing low confidence within context and triggering accelerated learning.
 
 ## Environmental Feedback
 Signals (social, economic, or physical) that reinforce or penalize behavior, shaping learning, beliefs, and habit formation.
@@ -28,7 +28,7 @@ A psychological state of discomfort that arises when an individual holds conflic
 +Extension— Dissonance arising from tension between evolutionary behaviour and modern social constraints.
 
 ## Salience
-Certain information, stimuli, or thoughts stand out and capture attention due to their specific properties, often influencing perception and decision-making disproportionately to their objective importance.
+Certain information, stimuli, or thoughts stand out and capture attention due to their specific properties, influencing perception, memory retention and decision-making.
 
 ## Mental Injury
 A disruption to psychological stability that impair decision-making, emotional regulation, perception. Causes include intense, prolonged, or conflicting experiences within a context.

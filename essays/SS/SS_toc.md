@@ -46,13 +46,13 @@ Within a few decades, the this has grown orders of magnitude higher in complexit
 
 This includes digital media, Internet TV, edu system, websites, books etc.  Basically everything except human minds.
 
-- Human designed Information flows e.g. algorithms.
+- Human designed Information flows e.g. algorithms. Regulation.
 - Instant communication regardless geolocation.
 
 
 - SIS high-level visualization.
   - Blue nodes: individuals/agents. Blue node network: Organic IS (human social network).
-  - Red/pink: Block shows recently formed component, but most dominant information source in modern environment. Red lines show each node interacts with mass media in personal capacity OR in other words, mass media is capable of engaging with the whole society on an individual level, bypassing local social constraints, influencing society through [information referencing, social truth](/essays/weaponisation#social-truth).
+  - Red/pink: Block shows digital components, dominant information media in modern environment. Red lines show each node interacts with mass media in personal capacity OR in other words, mass media is capable of engaging with the whole society on an individual level, bypassing local social constraints, influencing society through [information referencing, social truth](/essays/weaponisation#social-truth).
 
 <p>
   <p style="text-align: center; font-style: italic">Super information system, Media Ecology</p>
@@ -71,9 +71,10 @@ This includes digital media, Internet TV, edu system, websites, books etc.  Basi
 
 #### Vertical
 
-Territorially segregated. Relatively controlled and lower degree of informational, economical exchange.
+Territorially segregated. Relatively controlled/regulated and lower degree of informational, economical exchange.
 
 Integrated through less but powerful ties.
+
 #### Horizontal
 
 Socio-economic indicator based- Power/influence/authority, social status, rank, wealth.
