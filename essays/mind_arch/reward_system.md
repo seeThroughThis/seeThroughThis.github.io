@@ -24,7 +24,7 @@ From the above examples, it also becomes clear that emotions are tightly coupled
 <p>
   <div style="display:flex; justify-content:center;">
     <div style="display: grid; place-items: center; position: relative;">
-      <img style="grid-area: 1 / 1;" src="{{ '/diagrams/rewardSys.svg' | relative_url}}"><br>
+      <img style="grid-area: 1 / 1;" src="{{ '/diagrams/rewardSys.png' | relative_url}}"><br>
     </div>
   </div>
 </p>
