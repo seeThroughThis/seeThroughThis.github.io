@@ -1,5 +1,5 @@
 ---
-title: Warfare Types
+title: Specialised PsyOps
 nav_order: 2
 parent: Warfare
 ---
