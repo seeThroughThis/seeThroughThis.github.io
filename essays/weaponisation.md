@@ -1,7 +1,7 @@
----
+<!-- ---
 title: Weaponisation of Psychology
 nav_order: 98
----
+--- -->
 
 # Weaponisation of human psychology.
 Listing terms and possible methods in brief for documentation purpose.
