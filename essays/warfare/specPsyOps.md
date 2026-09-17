@@ -4,20 +4,20 @@ nav_order: 2
 parent: Warfare
 ---
 
-Specialised PsyOps are conducted within extremely controlled social networks and hierarchies. Parts of this phenomenon may emerge naturally (information cascade, herd behaviour), but this article specifically focuses on weaponising through artificial orchestration and centralised intent.
+Specialised PsyOps are conducted within extremely controlled social networks and hierarchies. Parts of this phenomenon may emerge naturally (e.g. information cascade, herd behaviour), but this document specifically focuses on weaponising, orchestrating such phenomena with centralised intent.
 
 # Goal of this document
-- Educate and increase awareness of such activities. Currently, there are no safeguards against such attacks against unaware civilians.
+- Educate and increase awareness of such activities. Currently, there are no safeguards against such attacks against unaware population.
 
 # Potential objectives of perpetrators
 - Streamlining, forming hierarchies with required identity composition.
-- Establishing controlled economic networks.
-- Manufacturing controlled leadership/high rank person (political, scientific, etc.).
-- Influence large populations without an unrestrained cascade.
+- Establishing controlled information, economic networks.
+- Manufacturing controlled leadership/high rank person (political, scientific, artistic etc.).
+- Create sensation to influence large populations without an unrestrained cascade.
 - War games.
 - On a fundamental level, the system is brought to the desired setting of lever-pivot.
 
-All objectives are mutually inclusive. An immature information cascade is most likely to be avoided at all costs.
+All objectives are mutually inclusive.
 
 # Activity roles
 

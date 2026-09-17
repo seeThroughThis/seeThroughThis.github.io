@@ -6,11 +6,11 @@ parent: Mind Architecture
 
 # Cognitive biases: 
 - Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>. Below is attempt to merge most of them into few classes.
-- **Sampling biases/data biases**:
-  - Perception of specific event, information is supported by the existing contextual information which may not be accurate sampling of actual reality leading to fallacy.
-  - Information/perception about self is primarily driven by environmental/social feedback. Distorted feedback lead to distorted self-perception as does the prolonged thinking about either "positive" or "negative" points.
-  - Various personal experiences including emotional, acts as data to allow empathising within respective context. Absence of contextual experiences may create empathy gap.
-  - We have tendency to accept what aligns with our existing contextual belief sample. Throughout evolution if an individual has survived till age of 20-30, that means individual have likely formed behavioural model from adequate data sample and associations. Rapidly updating model with anomalous data is not likely to be beneficial unless it has high salience (reward, emotional valence or social reference).
+## Sampling biases/data biases:
+- Perception of specific event, information is supported by the existing contextual information which may not be accurate sampling of actual reality leading to fallacy.
+- Information/perception about self is primarily driven by environmental/social feedback. Distorted feedback lead to distorted self-perception as does the prolonged thinking about either "positive" or "negative" points.
+- Various personal experiences including emotional, acts as data to allow empathising within respective context. Absence of contextual experiences may create empathy gap.
+- We have tendency to accept what aligns with our existing contextual belief sample. Throughout evolution if an individual has survived till age of 20-30, that means individual have likely formed behavioural model from adequate data sample and associations. Rapidly updating model with anomalous data is not likely to be beneficial unless it has high salience (reward, emotional valence or social reference).
 
 - **Association biases**:
   - Association between information/data is supposed to be driven by semantic meaning but prone to malformation if reinforced by environment especially not observed first hand or is abstract.
