@@ -70,9 +70,9 @@ Exploiting free will by controlling action space, limiting choices.
 ### Information ingestion
 - Forcing conversation through close social nodes such as friends, workplace colleagues, etc., using digital social media.
 
+
 - Goals
-  - Forming beliefs and opinions to exploit and sustain operations.\
-  - Reinforce biases
+  - Forming beliefs, opinions, reinforce biases to exploit and sustain operations.
 
 ### Identity fishing
 Propagating intricately designed information through various media targeted towards specific identities. Although information accessible publicly as neutral, its perception by targeted identities is driven by high salience towards self two-traits and pre-trained shared beliefs. Effects include reinforcing/altering identity wiring, distorting perceived identity norm.

@@ -54,18 +54,6 @@ Weaponisation of psychology is not widely acknowledged, enabling such social ent
 
 Most likely a network of individuals spanning various power structures across various identities.
 
-## Lever
-Consists of a large number of people assembled in multiple social hierarchies. Potentially include public agencies.
-
-Hierarchies do not have the full picture and work in multiple isolated groups. Operated simultaneously, sequentially.
-
-Assembled to manipulate the environment of the pivot to influence behaviour and gather information.
-
-Most people are under the heavy influence of biases such as groupthink, cognitive/psy war tactics, and hence vulnerable to coercion by orchestrators.
-
-Due to high social reference, initial anchoring, it becomes increasingly unlikely for the lever to evaluate an alternative hypothesis.
-
-Self-sustained behaviour after the initial phase, easy to assemble new hierarchies using social truth.
 
 <p>
   <div style="display:flex; justify-content:center;">
@@ -100,7 +88,11 @@ Performing several methods cyclically over a span of decades and multiple genera
 - Sabotaging regular social transactions/engagements while availing services.
 - Inducing helplessness by continual social isolation and denial of aid.
 - Op execution, information gathering via digital and non-digital means.
-- Recreating similar experiences for close social nodes, inducing emotional norms and deterring aid engagement.
+- Recreating similar experiences for close social nodes, inducing norm and deterring aid engagement.
 - Disrupting and eroding the pivot's social network. Antagonising close social nodes (e.g. family members, friends).
 - Abusing widespread disinformation about human behaviour, mental disorders, and equipping labelling and stereotyping against the pivot.
 - Blending activities with naturally occurring patterns. Evading empiricism.
+- Coercing pivot into "bad"(social-truth) activities, gathering evidences to deter retaliation.
+- Classical conditioning pivots to act on social pressure.
+- Trapping in social pincer- Centrally orchestrating attacking group and ally group as emotional vent but no actionable help.
+- Inducing talkativeness, transparency to gether information about mental states of pivots. Virtually no escape due to phones.
