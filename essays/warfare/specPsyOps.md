@@ -81,7 +81,7 @@ Performing several methods cyclically over a span of decades and multiple genera
 </p>
 
 # Attacks/maneuvers involved
-- Disturbing cognitive development during childhood through disturbing parents, family environment. Pulling strings to manipulate education systems.
+- Disturbing cognitive development during childhood through disturbing parents, family environment. ClassicalPulling strings to manipulate education systems.
 - Pivot’s high sensitivity towards informational social influence, normative social influence, and naturally selected high reward functions are exploited. Inducing addictions.
 - Controlling cash flow/economic stress. Keeping pivot in a controlled business/career network with the ability to disrupt economic stability.
 - Harassing and attacking by multiple identities if the aim includes creating unbiased leadership. Vast social diversity is violently projected onto individuals, causing immense cognitive dissonance.
@@ -96,3 +96,6 @@ Performing several methods cyclically over a span of decades and multiple genera
 - Classical conditioning pivots to act on social pressure.
 - Trapping in social pincer- Centrally orchestrating attacking group and ally group as emotional vent but no actionable help.
 - Inducing talkativeness, transparency to gether information about mental states of pivots. Virtually no escape due to phones.
+- Abusing pair-bonding drive, coercing into relationships and leveraging to manipulate.
+- Lever includes peers of pivot from education sys, work network etc. transforming into established network while isolating pivot. Lever initially assembled under bias may continue collaboration to perpetually isolate pivot.
+- Any resultant aggressive act towards self, others will be blamed on domestic problems, unemployment etc.
