@@ -1,11 +1,11 @@
-# Human among Humans
+# humOS
 
 > A systems-thinking perspective on individual and collective human behaviour,
 > information systems and social design.
 
 ## Overview
 
-- [Overview](https://seethroughthis.github.io/): Introduction to the Human among Humans framework.
+- [Overview](https://seethroughthis.github.io/): Introduction to the humOS framework.
 
 ## Framework
 

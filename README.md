@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/status-exploratory-yellow">
 </p>
 
-# Human among Humans
+# humOS
 Status: Exploratory / Working model (pre-1.0)
 
 An exploratory conceptual model that shares systems-thinking perspective on individual and collective human behaviour, information systems and social structures.
