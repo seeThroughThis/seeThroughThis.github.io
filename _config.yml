@@ -1,12 +1,18 @@
 remote_theme: just-the-docs/just-the-docs
 title: Human among Humans
 description: A systems-thinking perspective on individual and collective human behaviour, information systems and social design
-author: Omkar Killarikar
+author: 
+  name: Omkar Killarikar
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 color_scheme: dark
 ga_tracking: G-8L87470RTE
 ga_tracking_anonymize_ip: true
+
+url: "https://seethroughthis.github.io"
+baseurl: ""
 aux_links:
   "Substack":
     - "https://superlens.substack.com/"
