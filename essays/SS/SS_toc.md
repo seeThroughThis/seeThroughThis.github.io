@@ -71,7 +71,7 @@ This includes digital media, Internet TV, edu system, websites, books etc.  Basi
 
 #### Vertical
 
-Territorially segregated. Relatively controlled/regulated and lower degree of informational, economical exchange.
+High degree of territorial segregation. Relatively controlled/regulated and lower degree of informational, economical exchange.
 
 Integrated through less but powerful ties.
 
@@ -80,7 +80,7 @@ Integrated through less but powerful ties.
 Socio-economic indicator based- Power/influence/authority, social status, rank, wealth.
 trickle down economy.
 
-Components relatively more economically, culturally and informationally integrated.
+Components economically, culturally and informationally integrated on population scale.
 
 
 Vertical and horizontal abstractions are not hard drawn. social elements can re-orient with each other depending on system outline/context.
