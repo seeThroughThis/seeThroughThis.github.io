@@ -6,7 +6,20 @@ description: Collation of cognitive biases.
 ---
 
 # Cognitive biases
-- Full <new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">cognitive bias codex here</new-tab-link>. Below is attempt to merge/classify most of them into few classes.
+
+This component represents a full set of evolutionary behaviour. A large set of instructions that are executed upon environmental conditions/patterns being met. But these are not accurate.
+
+This enables us to recognize high-level patterns and endorse behaviour driven by survival and procreation. Socializing on weekends, sexual attraction, group behaviour, competitiveness, supporting a favorite sports team, the list won’t end. It’s all driven by biases.
+
+Although biases are associated with cognitive errors, bias literally means inclination, but in the modern lifestyle, they can lead to errors or worse, exploitation. Especially in a modern environment, unnecessary responses may be generated due to the heuristic nature, leading to stress (Read more in Error Management).
+
+There are staggering 150+ biases identified. Please refer to the links below to the external work.
+
+<new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">Cognitive Bias Codex</new-tab-link> - Interactive. Clicking on an individual bias will redirect to the Wikipedia pages.
+
+<new-tab-link href="https://en.wikipedia.org/wiki/List_of_cognitive_biases">List of cognitive biases</new-tab-link> - Wikipedia.
+
+Many of the important identity/social biases are not included in the list above. I’m attempting an independent bottom-up approach and consolidating most of them into a few classes.
 
 ## Sampling biases/data biases
 - Perception of specific event, information is supported by the existing contextual information which may not be accurate sampling of actual reality leading to fallacy.
