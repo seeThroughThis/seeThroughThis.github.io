@@ -2,6 +2,7 @@
 title: Cognitive Biases
 nav_order: 2
 parent: Mind Architecture
+description: Collation of cognitive biases.
 ---
 
 # Cognitive biases

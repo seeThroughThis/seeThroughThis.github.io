@@ -2,6 +2,7 @@
 title: Warfare Types
 nav_order: 1
 parent: Warfare
+description: Various modes in which conflict can occur.
 ---
 
 

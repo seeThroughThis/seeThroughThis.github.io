@@ -2,6 +2,7 @@
 title: Super Structure
 nav_order: 3
 has_children: true
+description: Super structure attempts to integrate various abstract structures including human behaviour, social structures, economy, information systems into a single analytical unit.
 ---
 
 # Super Structure
@@ -25,7 +26,7 @@ Any information system (IS) is an ecosystem/network of elements (people, data/in
 - Store data
 - Process/alter data
 - Distribute data
-- Generate data.
+- Generate data
 
 The SIS we are referring to is subset of SS and only focuses on IS functions listed above. This includes organic IS and Inorganic IS.
 

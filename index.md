@@ -8,7 +8,7 @@ Beta version
 {: .label .label-yellow }
 
 # Overview
-- This is an attempt to synthesize a model that explains the individual and collective human behaviour entwined with environment and social systems across scales.
+- humOS is a conceptual framework for understanding individual and collective human behaviour as part of interconnected social, informational and environmental systems.
 - Objectives:
   - Modelize global system state (with high granularity), explaining evolution over time (socially, culturally, economically, territorially). What potential states may emerge in the future?
   - Understand the flaws in the current system and push towards a global sustainable social framework that is harmonious in case of safety (physical/territorial, economic, mental) while allowing constructive agency (science, arts, sports, etc.) and space for other beings and their ecosystems to thrive.

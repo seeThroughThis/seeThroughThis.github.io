@@ -1,10 +1,11 @@
 ---
 title: Identity
 nav_order: 4
+description: Underlying mechanism of collaboration and conflict
 ---
 
 # Identity
-- Single most important evolutionary behaviour from social stability POV.
+- Single most important evolutionary trait from social stability POV.
 - Identity consists of the:
   - The “**two traits**”:
     1. Group affiliation <new-tab-link href="https://en.wikipedia.org/wiki/Social_identity_theory">(Social identity theory)</new-tab-link>

@@ -2,6 +2,7 @@
 title: Reward System
 nav_order: 3
 parent: Mind Architecture
+description: An exploration of how reward and punishment signals influence learning, habits and individual and collective human behaviour.
 ---
 
 # Reward system

@@ -1,33 +1,15 @@
 ---
-title: Mind Components
+title: Components
 nav_order: 1
 parent: Mind Architecture
+description: Components and processes that take place within mind.
 ---
 
-# Mind Architecture
-{: #diagram-mind-arch}
-<p>
-  <p style="text-align: center; font-style: italic"></p>
-  <div style="display:flex; justify-content:center;">
-    <div style="display: grid; place-items: center; position: relative;">
-      <span style="opacity:0;grid-area: 1 / 1;"></span>
-      <img style="grid-area: 1 / 1;" src="{{ '/diagrams/MindArchLegend.svg' | relative_url}}"><br>
-    </div>
-  </div>
-</p>
-<p>
-  <p style="text-align: center; font-style: italic">Mind architecture</p>
-  <div style="display:flex; justify-content:center;">
-    <div style="display: grid; place-items: center; position: relative;">
-      <span style="opacity:0;grid-area: 1 / 1;"></span>
-      <img style="grid-area: 1 / 1;" src="{{ '/diagrams/MindArch.png' | relative_url}}"><br>
-    </div>
-  </div>
-</p>
 
 ## Perception
 - Since birth, cognitive model develops continuously from information is gathered from environment in recurrent process.
 - Information perception involves below co-occurring functions:
+
 ### Emotions:
 - Realtime emotional response to incoming data/experiences.
 

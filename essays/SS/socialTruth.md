@@ -2,6 +2,7 @@
 title: Social Truth
 nav_order: 2
 parent: Super Structure
+description: An exploration of how information propagates through social networks and how social influence, identity and cognitive processes affect perceived truth.
 ---
 
 ## Nodes

@@ -7,18 +7,17 @@
 
 - [Overview](https://seethroughthis.github.io/): Introduction to the humOS framework.
 
+
 ## Framework
 
 - [Mind Architecture](https://seethroughthis.github.io/mind-architecture/): A functional model of the human mind.
 - [Super Structure](https://seethroughthis.github.io/super-structure/): Social and systemic structures surrounding individual behaviour.
 - [Identity](https://seethroughthis.github.io/identity/): Exploration of identity as an individual and social construct.
 
-## Concepts
+
+## Appendices
 
 - [Glossary](https://seethroughthis.github.io/glossary/): Definitions of concepts used throughout the framework.
-
-## Related Work
-
 - [Related Work](https://seethroughthis.github.io/related-work/): Relevant theories, models and research informing the framework.
 
 ## Author
