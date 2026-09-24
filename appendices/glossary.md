@@ -2,6 +2,7 @@
 title: Glossary
 nav_order: 1
 parent: Appendices
+description: Set of terms and their definition related to context of this project.
 ---
 
 ## Terminology
