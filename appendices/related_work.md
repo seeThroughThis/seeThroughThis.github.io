@@ -7,7 +7,7 @@ description: References and existing work related to context of this project.
 
 # Related work
 
-Collation of work that is related, aligned or overlapping with this project or any subset of the project.
+List of work that is related, aligned or overlapping with this project or any subset of the project.
 
 
 <table>

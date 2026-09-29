@@ -20,7 +20,7 @@ description: Underlying mechanism of collaboration and conflict
   {: #id-variables}
   - **Non-territorial identity variables**: countries/states, communities, sub-communities, ideologies (left, right, capitalism, communism), physical attributes (various skin, hair colours, mono-lid eyes), religions, ethnicities, languages, gender/sexual orientations and recently trending generations (millennial, Gen Z, etc.)
 - On the positive side, Achievements are celebrated in identity crossovers such as sport victories, technological, scientific advancements etc.
-- Balanced incorporation of the two-traits and individuality can promote social responsibility and prevent reward-maximising behaviour among individuals. Tradeoff between individuality and two-traits is observable in social hierarchy. Individual identity/role is powerful and influential from high rank [nodes](/essays/appendices/glossary#social-node) / personalities POV whereas strength of large populations comes from being in cohesion through two-traits.
+- Balanced incorporation of the two-traits and individuality can promote social responsibility and prevent reward-maximising behaviour among individuals. Tradeoff between individuality and two-traits is observable in social hierarchy. Individual identity/role is powerful and influential from high rank [nodes](/appendices/glossary#social-node) / personalities POV whereas strength of large populations comes from being in cohesion through two-traits.
 
 <p>
   <p style="text-align: center; font-style: italic">Identity tradeoff</p>

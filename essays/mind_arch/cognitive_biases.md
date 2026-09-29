@@ -22,7 +22,7 @@ There are staggering 150+ biases identified. Please refer to the links below to 
 Many of the important identity/social biases are not included in the list above. I’m attempting an independent bottom-up approach and consolidating most of them into a few classes.
 
 ## Sampling biases/data biases
-- Perception of specific event, information is supported by the existing contextual information which may not be accurate sampling of actual reality leading to fallacy.
+- Perception of specific entity or event is supported by the existing contextual information which may not be accurate sample of actual reality leading to fallacy.
 - Information/perception about self is primarily driven by environmental/social feedback. Distorted feedback lead to distorted self-perception as does the prolonged thinking about either "positive" or "negative" points.
 - Various personal experiences including emotional, acts as data to allow empathising within respective context. Absence of contextual experiences may create empathy gap.
 - We have tendency to accept what aligns with our existing contextual belief sample. Throughout evolution if an individual has survived till age of 20-30, that means individual have likely formed behavioural model from adequate data sample and associations. Rapidly updating model with anomalous data is not likely to be beneficial unless it has high salience (reward, emotional valence or social reference).
@@ -46,6 +46,7 @@ Many of the important identity/social biases are not included in the list above.
   - Sentiments and opinion towards self-identity and other identities (identity wiring).
 - Migration bias: Migrating to location with better resource availability.
 - Pair bonding/mating behaviour: subject to identity, social rank, sexual orientation, resource availability.
+- Sexual dimorphism.
 
 
 <!-- ---

@@ -85,7 +85,7 @@ A PsyOp tactic that propagates intricately designed information through various 
 ## Information System
 An Information system is an ecosystem of components (people, data/information, technologies) capable of performing the following functions in a specific context.
 
-- Collect data\
+- Collect data
 - Store data
 - Process data
 - Distribute data
