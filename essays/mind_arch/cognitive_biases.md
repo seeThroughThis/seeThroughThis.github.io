@@ -13,11 +13,11 @@ This enables us to recognize high-level patterns and endorse behaviour driven by
 
 Although biases are associated with cognitive errors, bias literally means inclination. In the modern lifestyle, they can lead to errors, unnecessary responses or worse, exploitation.
 
-There are staggering 150+ biases identified. Please refer to the links below to the external work.
+Currently, there are 150+ biases identified. Please refer to the links below to the external work.
 
-<new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">Cognitive Bias Codex</new-tab-link> : Interactive. Clicking on an individual bias will redirect to the Wikipedia pages.
+<new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">Cognitive Bias Codex</new-tab-link>:Interactive. Clicking on an individual bias will redirect to the Wikipedia pages.
 
-<new-tab-link href="https://en.wikipedia.org/wiki/List_of_cognitive_biases">List of cognitive biases</new-tab-link> : Wikipedia.
+<new-tab-link href="https://en.wikipedia.org/wiki/List_of_cognitive_biases">List of cognitive biases</new-tab-link>:Wikipedia.
 
 Many of the important identity/social biases are not included in the list above. Below an independent bottom-up approach and consolidating most of them into a few classes.
 
