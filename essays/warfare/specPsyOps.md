@@ -15,7 +15,7 @@ Specialised PsyOps are conducted within extremely controlled social networks and
 - Manufacturing controlled leadership/high rank person (political, scientific, artistic etc.).
 - Create sensation to influence large populations without an unrestrained cascade.
 - War games.
-- On a fundamental level, the system is brought to the desired setting of lever-pivot.
+- On a fundamental level, bringing system to the desired setting of lever-pivot.
 
 All objectives are mutually inclusive.
 
@@ -67,7 +67,7 @@ Most likely a network of individuals spanning various power structures across va
 
 Performing several methods cyclically over a span of decades and multiple generations of pivot, such as:
 
-- Manufacturing moral high ground/justification, which is provided to people assembling hierarchies (lever).
+- Manufacturing moral high-ground/justification, which is provided to people assembling hierarchies (lever).
 - Using hierarchies to manipulate the environment of the pivot to disturb and induce socially abnormal behaviour, addiction. Potentially gathering evidence. Information achieves a state of social truth in the locality.
 - Using disturbed behaviour as a moral high ground, creating opportunities to repeat the cycle and achieving self-sustained herd behaviour of the lever.
 
@@ -84,7 +84,8 @@ Performing several methods cyclically over a span of decades and multiple genera
 - Disturbing cognitive development during childhood through disturbing parents, family environment. ClassicalPulling strings to manipulate education systems.
 - Pivot’s high sensitivity towards informational social influence, normative social influence, and naturally selected high reward functions are exploited. Inducing addictions.
 - Controlling cash flow/economic stress. Keeping pivot in a controlled business/career network with the ability to disrupt economic stability.
-- Harassing and attacking by multiple identities if the aim includes creating unbiased leadership. Vast social diversity is violently projected onto individuals, causing immense cognitive dissonance.
+- Harassing and attacking by influencing people from multiple identity variables. False flag.
+- Vast social diversity is violently projected onto individuals, causing immense cognitive dissonance.
 - Sabotaging regular social transactions/engagements while availing services.
 - Inducing helplessness by continual social isolation and denial of aid.
 - Op execution, information gathering via digital and non-digital means.
@@ -98,4 +99,4 @@ Performing several methods cyclically over a span of decades and multiple genera
 - Inducing talkativeness, transparency to gether information about mental states of pivots. Virtually no escape due to phones.
 - Abusing pair-bonding drive, coercing into relationships and leveraging to manipulate.
 - Lever includes peers of pivot from education sys, work network etc. transforming into established network while isolating pivot. Lever initially assembled under bias may continue collaboration to perpetually isolate pivot.
-- Any resultant aggressive act towards self, others will be blamed on domestic problems, unemployment etc.
+- Any resultant aggressive act towards self, others will be blamed on domestic problems, unemployment, mental illness etc.

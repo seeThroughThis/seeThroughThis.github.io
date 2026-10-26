@@ -15,7 +15,7 @@ Salience/filtering: Our senses continuously get bombarded with information. A lo
 Framing: Existing learned data is retrieved based on the current context, incoming information, subjective salience, and prior emotional experiences.
 
 
-### Emotions:
+### Emotions
 
 Works as a compass to navigate the environment, e.g., fearful response to threatening situations and fleeing or forming relationship bonds. Real-time response to environmental stimuli while recalling memories.
 
@@ -56,7 +56,7 @@ Although most animals gather information, trying to keep conscious reality as cl
 
 ### Working memory
 
-Compared to a seemingly infinite memory store, working memory is finite. This is similar to the RAM, where data is retrieved according to the current context of work, and information is made available at the fingertips for fast access. You must have experienced how it takes time and active thinking to get up to speed for deep research work. This is also why it feels frictional and energy costly to move between multiple contexts of work, especially when contexts are semantically distant.
+Compared to a seemingly infinite memory store, working memory is limited. This is similar to the RAM, where data is retrieved according to the current context of work, and information is made available at the fingertips for fast access. You must have experienced how it takes time and active thinking to get up to speed for deep research work. This is also why it feels frictional and energy costly to move between multiple contexts of work, especially when contexts are semantically distant.
 
 Sometimes, early-day emotional experiences, whether good or bad, set the tone for the whole day, which affects thinking and behaviour; that emotional state is maintained here. Since information and memories are also retrieved through associations of negative or positive emotions, we also tend to retrieve more of the same. This can affect decision-making and hinder critical thinking.
 
