@@ -15,9 +15,9 @@ Although biases are associated with cognitive errors, bias literally means incli
 
 Currently, there are 150+ biases identified. Please refer to the links below to the external work.
 
-<new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">Cognitive Bias Codex</new-tab-link>:Interactive. Clicking on an individual bias will redirect to the Wikipedia pages.
+Interactive. Clicking on an individual bias will redirect to the Wikipedia pages:<new-tab-link href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">Cognitive Bias Codex</new-tab-link>
 
-<new-tab-link href="https://en.wikipedia.org/wiki/List_of_cognitive_biases">List of cognitive biases</new-tab-link>:Wikipedia.
+Wikipedia:<new-tab-link href="https://en.wikipedia.org/wiki/List_of_cognitive_biases">List of cognitive biases</new-tab-link>
 
 Many of the important identity/social biases are not included in the list above. Below an independent bottom-up approach and consolidating most of them into a few classes.
 
