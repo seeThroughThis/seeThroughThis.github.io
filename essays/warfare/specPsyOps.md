@@ -44,7 +44,7 @@ Self-sustained behaviour after the initial phase, easy to assemble new hierarchi
 
 ## Orchestrators
 
-Orchs are like an acting force on the lever and the ones who devise plans and initiate execution. High awareness about actual truths, cognitive/psy war tactics and human biases, hence in a position to abuse and exploit unaware people.
+Orchs are like an acting force on the lever and the ones who devise plans and initiate execution. High awareness about actual truths, social systems, cognitive/psy war tactics and human biases, hence in a position to abuse and exploit unaware people.
 
 Responsible for manufacturing moral high ground, social truths to initiate a psyop. Have a full picture of the operation.
 
@@ -70,6 +70,7 @@ Performing several methods cyclically over a span of decades and multiple genera
 - Manufacturing moral high-ground/justification, which is provided to people assembling hierarchies (lever).
 - Using hierarchies to manipulate the environment of the pivot to disturb and induce socially abnormal behaviour, addiction. Potentially gathering evidence. Information achieves a state of social truth in the locality.
 - Using disturbed behaviour as a moral high ground, creating opportunities to repeat the cycle and achieving self-sustained herd behaviour of the lever.
+- Abusing systemic authority and resources.
 
 
 <p>
