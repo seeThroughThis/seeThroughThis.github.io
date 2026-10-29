@@ -12,7 +12,7 @@ The set of terms and their definitions that are agreed upon, allowing flawless c
 The foundational components of identity:
 Group affiliation (“Who are my people?”)
 Territorial association (“Where do we collectively operate and take responsibility?”)
-Historically coupled through evolution. [Read more.](/essays/identity.md)
+Historically coupled through evolution. [Read more.](/essays/identity)
 
 ## Cognitive Dissonance
 A psychological state of discomfort that arises when an individual's conflicting beliefs, attitudes, or behaviors interact closely within context. This leads to compulsion/motivation to reduce the inconsistency by changing beliefs, justifying actions, or altering behavior.
@@ -54,7 +54,7 @@ The organized system of individuals, groups, and institutions that hold authorit
 
 Formal: Systemically accepted laws and constitutions.
 
-Informal: See [Shadow Hierarchy.](/appendices/glossary.md#shadow-hierarchy)
+Informal: See [Shadow Hierarchy.](#shadow-hierarchy)
 
 ## Shadow Hierarchy
 Social hierarchies, networks with significant influence power (economic, political, social) but no public visibility. In short, hidden power structures.
