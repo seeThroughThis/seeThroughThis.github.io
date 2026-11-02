@@ -19,7 +19,7 @@ Interactive. Clicking on an individual bias will redirect to the Wikipedia pages
 
 Wikipedia:<new-tab-link href="https://en.wikipedia.org/wiki/List_of_cognitive_biases">List of cognitive biases</new-tab-link>
 
-Many of the important identity/social biases are not included in the list above. Below an independent bottom-up approach and consolidating most of them into a few classes.
+Many of the important identity/social biases are not included in the list above. Below an bottom-up approach and consolidating most of them into a few classes.
 
 ## Sampling biases/data biases
 - Perception of specific entity or event is supported by the existing contextual information which may not be accurate sample of actual reality leading to fallacy.
@@ -33,6 +33,7 @@ Many of the important identity/social biases are not included in the list above.
 - Within context, recently learned or frequently accessed/reinforced information is likely to influence thought process regardless of relevance.
 - If information is emotionally stimulating, its association tend to influence decision-making, conclusion and memory retrieval with respect to emotion and its valence.
 - Social, real-world dynamics is ultimately driven by actions taken. Actions are driven by opinions and sentiments which are conceived from information. Low classifiability of associated information thwarts decisive opinion forming and hence actions (ambivalence). Subject to negativity bias.
+- Spatial memory: geolocational/territorial association of events/data.
 
 ## Identity, social biases
 - Prioritising self group affiliation over other identities in various situations: Inhabitancy, economic activity, information exchange.
@@ -46,31 +47,3 @@ Many of the important identity/social biases are not included in the list above.
   - Sentiments and opinion towards self-identity and other identities (identity wiring).
 - Migration bias: Migrating to location with better resource availability.
 - Pair bonding/mating behaviour: subject to identity, social rank, sexual orientation, resource availability, sexual dimorphism.
-
-
-<!-- ---
-High-level intuitive expression
-
-$$
-support(A) = x, support(\bar{A}) = −x
-$$
-
-$$
-x = S.E
-$$
-
-Dissonance, D = 1 state of belief break, highest cognitive dissonance. D=0 no dissonance
-$$
-D = 1 − |tanh(x)|
-$$
-
-
-$where$ $A$ and $\bar{A}$ are contradictory statements/information,
-
-S = Salience (reward, emotional, social reference)
-
-E = Net evidence state for a statement, Support - Contradiction
-
-Considering this, Individual will have to keep gathering information within context to break out of cognitive dissonance if exist. (Update E)
-
---- -->

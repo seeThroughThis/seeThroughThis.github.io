@@ -49,7 +49,7 @@ It also has to be paired with reasoning to build a comprehensive understanding, 
 
 # Individual x Environment
 
-At any point in time, the behavioural model of an individual is a product of continuous interaction between the actions of that individual and the environment. In other words, the environment is responsible for a significant portion of the behavioural development of inhabitants. Considering this, how social systems reward or penalise their inhabitants is extremely important in shaping collective social behaviour.
+At any point in time, the [behavioural model](/appendices/glossary/Behavioral-model) of an individual is a product of continuous interaction between the actions of that individual and the environment. In other words, the environment is responsible for a significant portion of the behavioural development of inhabitants. Considering this, how social systems reward or penalise their inhabitants is extremely important in shaping collective social behaviour.
 
 This also includes indirect feedback learning, such as what behaviour of others leads to rewards and penalties. We have a tendency to reproduce the high-reward behaviour and suppress penalising behaviour of others, e.g. viral short-form content remakes, fashion trends, etc. The effect of this influence is much higher from celebrities and other highly visible personalities (high rank nodes), as their behaviour reaches a much larger portion of the network.
 
