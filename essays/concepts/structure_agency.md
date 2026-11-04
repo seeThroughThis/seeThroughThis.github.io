@@ -43,4 +43,5 @@ Game theory is the study of such agents whose decision-making is dependent on ea
 
 
 Here are a few links related to Game theory:
-<new-tab-link href="https://substack.com/home/post/p-187164875">Substack article</new-tab-link> article by The forbidden files, YouTube: <new-tab-link href="https://www.youtube.com/watch?v=mScpHTIi-kM">Video1</new-tab-link> by Veritasium, <new-tab-link href="https://www.youtube.com/watch?v=ivfw_TcsHbw">Video2</new-tab-link> by Pursuit of wonder.
+<new-tab-link href="https://substack.com/home/post/p-187164875">Substack article</new-tab-link> article by The forbidden files.
+YouTube: <new-tab-link href="https://www.youtube.com/watch?v=mScpHTIi-kM">Video1</new-tab-link> by Veritasium, <new-tab-link href="https://www.youtube.com/watch?v=ivfw_TcsHbw">Video2</new-tab-link> by Pursuit of wonder.

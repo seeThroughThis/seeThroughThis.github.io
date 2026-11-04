@@ -2,7 +2,7 @@
 title: Reward System
 nav_order: 3
 parent: Mind Architecture
-description: An exploration of how reward and punishment signals influence learning, habits and individual and collective human behaviour.
+description: An exploration of how reward and punishment signals influence learning, habits, individual & collective human behaviour.
 ---
 
 # Reward system
@@ -58,9 +58,10 @@ Behaviour is not formed by intention alone, but by the consistency and accuracy 
 The mind behaves like a statistical model in many ways. Our behavioural model (behaviours and habits) is built from countless pieces of feedback received since birth. A non-negligible amount of mismatch between behaviour and environmental feedback at an early age creates a malformed foundational model that distorts subsequent perceptions, trapping the individual in a vicious cycle. Depending on severity and the combination type of mismatch between behaviour and environmental feedback can lead to a fragmented cognitive model, malformed emotional response, over/under confidence, and polarised behavioural patterns.
 
 
-Figure tip: visualisation column: Black: behavioural/actions distribution(right side-positive actions, left side-negative actions), Blue: rewards, Red: penalties.
+Figure tip: visualisation column: Black: actions/behavioural distribution(right side-positive actions, left side-negative actions), Blue+red: Environmental feedback as well as subjective response function. Blue: rewards, Red: penalties.
 
 <p>
+  <p style="text-align: center; font-style: italic">Approx actions distribution, env feedback and, emotional response function</p>
   <div style="display:flex; justify-content:center;">
     <div style="display: grid; place-items: center; position: relative;">
       <img style="grid-area: 1 / 1;" src="{{ '/diagrams/rewardDesyncTable.jpg' | relative_url}}"><br>
