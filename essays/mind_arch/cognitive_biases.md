@@ -28,7 +28,7 @@ Many of the important identity/social biases are not included in the list above.
 - Tendency to accept what aligns with our existing contextual belief sample. Throughout evolution if an individual has survived till age of 20-30, that means individual have likely formed behavioural model from adequate data sample and associations. Rapidly updating model with anomalous data is not likely to be beneficial unless it has high salience (reward, emotional valence or social reference).
 
 ## Association biases
-- Association between information/entities is supposed to be driven by semantics and causality but prone to malformation due to limited information observability, high complexity and abstract nature. All biases/heuristic patterns are registered due to this.
+- Associations between information/entities is supposed to be driven by objective semantics and causality but prone to malformation due to limited information observability, high complexity and abstract nature. All biases/heuristic patterns are registered due to this.
 - Even if existing information is a good sample, the sample actually to used for perception, decision-making maybe be inaccurate due to incoming information or environmental constraints.
 - Within context, recently learned or frequently accessed/reinforced information is likely to influence thought process regardless of relevance.
 - If information is emotionally stimulating, its association tend to influence decision-making, conclusion and memory retrieval with respect to emotion and its valence.
@@ -41,9 +41,16 @@ Many of the important identity/social biases are not included in the list above.
 - Acceptability of information, obedience, authority based on perceived ranks within social hierarchy.
 - High salience towards information regarding self two-traits, enabling collective response to threats.
 - Tendency to identify encultured/learned behaviour as inborn/genetic.
-- Tendency to associate self(individually, socially) to "goodness" while suppressing "bad". With respect to social reality.
+- Tendency to associate self(individually, socially) to "good" while suppressing "bad", with respect to social reality.
 - Identity biases coupled with data sampling and association:
-  - Influences perceived norm of various [identity variables](/essays/identity#id-variables), cultural beliefs and practices. Anomaly detection based on perceived norm.
+  - Influences perceived norm of various [identity variables](`/essays/identity#id-variables), cultural beliefs and practices. Anomaly detection based on perceived norm.
   - Sentiments and opinion towards self-identity and other identities (identity wiring).
 - Migration bias: Migrating to location with better resource availability.
 - Pair bonding/mating behaviour: subject to identity, social rank, sexual orientation, resource availability, sexual dimorphism.
+
+<!-- TODO:
+- merge data and association biases?
+- 
+ -->
+
+ 

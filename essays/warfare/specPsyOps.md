@@ -4,17 +4,17 @@ nav_order: 2
 parent: Warfare
 ---
 
-Specialised PsyOps are conducted within extremely controlled social networks and hierarchies. Parts of this phenomenon may emerge naturally (e.g. information cascade, herd behaviour), but this document specifically focuses on weaponising, orchestrating such phenomena with centralised intent.
+Specialised PsyOps are conducted within extremely controlled social networks and hierarchies. These hierarchies transcends boundaries of social identities, systemic authorities etc.
+Parts of this phenomenon may emerge naturally (e.g. information cascade, herd behaviour), but this document specifically focuses on weaponising, orchestrating such phenomena with centralised intent.
 
 # Goal of this document
 - Educate and increase awareness of such activities. Currently, there are no safeguards against such attacks against unaware population.
 
 # Potential objectives of perpetrators
-- Streamlining, forming hierarchies with required identity composition.
+- Streamlining, forming hierarchies with required identity composition. Maintaining trans-generational epistemic continuity of statecraft. War games.
 - Establishing controlled information, economic networks.
 - Manufacturing controlled leadership/high rank person (political, scientific, artistic etc.).
 - Create sensation to influence large populations without an unrestrained cascade.
-- War games.
 - On a fundamental level, bringing system to the desired setting of lever-pivot.
 
 All objectives are mutually inclusive.
@@ -82,7 +82,7 @@ Performing several methods cyclically over a span of decades and multiple genera
 </p>
 
 # Attacks/maneuvers involved
-- Disturbing cognitive development during childhood through disturbing parents, family environment. ClassicalPulling strings to manipulate education systems.
+- Disturbing cognitive development during childhood through disturbing parents, family environment. Pulling strings to manipulate education systems.
 - Pivot’s high sensitivity towards informational social influence, normative social influence, and naturally selected high reward functions are exploited. Inducing addictions.
 - Controlling cash flow/economic stress. Keeping pivot in a controlled business/career network with the ability to disrupt economic stability.
 - Harassing and attacking by influencing people from multiple identity variables. False flag.

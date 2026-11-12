@@ -18,7 +18,7 @@ description: Super structure attempts to integrate various abstract structures i
 
 Easiest to comprehend. Physical resources such as territory/land, minerals, ores, water etc.
 
-
+{: #SIS}
 ## Super Information System (SIS)
 
 Any information system (IS) is an ecosystem/network of elements (people, data/information, technologies) capable of performing the following functions in a specific context.
@@ -78,14 +78,15 @@ Integrated through less but powerful ties.
 
 #### Horizontal
 
-Socio-economic indicator based- Power/influence/authority, social status, rank, wealth.
-trickle down economy.
+Socio-economic indicator based- Power, influence, authority, social status, rank, wealth.
 
 Components economically, culturally and informationally integrated on population scale.
-
 
 Vertical and horizontal abstractions are not hard drawn. social elements can re-orient with each other depending on system outline/context.
 
 
-<!-- diagram -->
-<!-- Organisations, institutions, Economy -->
+<!-- TODO:
+- diagram 
+- Organisations, institutions, Economy
+
+-->

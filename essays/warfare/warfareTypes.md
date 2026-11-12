@@ -16,9 +16,9 @@ This is the most commonly acknowledged type of warfare.
 # Abstract warfare
 Abstract warfare operates indirectly through various modes such as Information, economics, psychology/cognitive, and cyber. Unlike physical warfare, these attacks are relatively difficult to identify and confirm due to their complex and abstract nature.
 
-Abstract modes do not operate in isolation but overlap in practical implementation.
+Abstract modes do not operate in isolation but overlap in practical implementation. e.g. [Special PsyOp](/essays/warfare/specPsyOps)
 
-These methods and modes are not inherently destructive. Many of these can be useful for sustainability.
+Many structure, phenomena exist naturally in social systems which are exploited for gains.
 
 ## Psychological/cognitive warfare
 This includes exploiting human biases.
@@ -50,15 +50,13 @@ Use of existing economic high ground to control market access. Controlling and d
 Economic networks directly integrate with the reward system, structure-agency on the individual level.
 
 ## Cyber warfare
-Using digital infrastructure as media to:
+Using digital infrastructure/[SIS](/essays/SS/super_structure_toc#SIS) as a medium for:
 
-Gather information.
-
-Identify behavioural patterns.
-
-Propagate disinformation.
+Information warfare.
 
 Conduct economic and psychological operations.
+
+Disrupt infrastructure.
 
 # List of exploits
 
