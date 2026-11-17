@@ -137,6 +137,6 @@ Due to real-time emotional response and its association with memories its is eas
 
 
 ## Information sources
-- DNA - Evolutionary traits, including cognitive biases, emotions, reward system come from this.
-- Environment - Enculturation. Learned behaviour, like languages, cultural beliefs, and work skills, is acquired after we are born.
-- Self-Generated/Reflective - This is relatively rare and a product of active thinking on observed data, forming new ideas, meaningful combinations, series of personal choices. e.g. artists creating paintings, music, and lyrics to name a few.
+- DNA - Evolutionary traits, including cognitive biases, emotions, reward system come from this. Not fixed, evolved due to individual-environmental interaction.
+- Environment - Enculturation. Learned behaviour, like languages, cultural beliefs, Social identity and work skills, is acquired after we are born.
+- Self-Generated - This is relatively rare and a product of active thinking on observed data. Forming new ideas, combinations, series of personal choices. e.g. artists creating paintings, music, and lyrics to name a few.

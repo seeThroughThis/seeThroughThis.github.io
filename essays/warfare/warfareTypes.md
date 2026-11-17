@@ -2,7 +2,7 @@
 title: Warfare Types
 nav_order: 1
 parent: Warfare
-description: Various modes in which conflict can occur.
+description: Various modes of conflict.
 ---
 
 
@@ -25,7 +25,7 @@ This includes exploiting human biases.
 
 Identity wiring, herd behaviour, group-think, and biological competition.
 
-belief pre-training, social reality mgmt.
+Belief pre-training, social reality management.
 
 exploiting the belief system.
 
@@ -68,7 +68,6 @@ Exploiting free will by controlling action space, limiting choices.
 
 ### Information ingestion
 - Forcing conversation through close social nodes such as friends, workplace colleagues, etc., using digital social media.
-
 
 - Goals
   - Forming beliefs, opinions, reinforce biases to exploit and sustain operations.

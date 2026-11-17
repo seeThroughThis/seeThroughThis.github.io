@@ -34,15 +34,31 @@ Currently, the agency is only observable in living beings. And, AI systems, if w
 
 Agents are not necessarily individual beings like humans. In contexts such as geopolitics and conflict, we can consider organisations as agents.
 
-# Degree of agency
+# Degree of Agency
+The question of whether something is agentic or not is much easier than evaluating degree of agency. Some agents exert more agency than others.
 
-The question of whether something is agentic or not is much easier than evaluating degree of agency. Some agents exert more agency than others. e.g. Coordinated groups are likely to be more powerful than individuals, individuals with highly accurate subjective structure are likely to make more correct decisions.
+e.g. Coordinated groups are likely to have more agency than individuals. Individuals with highly accurate subjective structure are likely to make more correct decisions but must have resources to act (exert agency).
+
+## System variables
+
+- Agent
+  - Subjective structure accuracy.
+  - Human bias awareness (evolutionary+learned)
+- Structure
+  - Constraint
+    - Physical
+    - Abstract (Social rules, norms etc.)
+  - Other agents
+    - Reinforcing, balancing, neutral.
+
+Know more about [Super Structure.](/essays/SS/super_structure_toc)
+
 
 # Reward Seeking
 Repeated ancestral behaviour that promoted survival and reproduction is registered as a rewarding evolutionary trait in subsequent iterations. All of our fundamental rewarding activities, such as socialising, pair bonding, etc., are products of such natural selection and hence drive our behaviour. Most of the things we do are to achieve these rewards. Read more about the reward system and its importance concerning human behaviour in [this article.](/essays/mind_arch/reward_system)
 
 # Game Theory
-Game theory is the study of such agents whose decision-making is dependent on each other within a specific system. The existence of multiple independent agents makes the structure highly dynamic.
+Game theory is the study of such agents with co-dependent decision-making within a specific system. The existence of multiple independent agents makes the system highly dynamic.
 
 
 Here are a few links related to Game theory:

@@ -47,8 +47,8 @@ Within a few decades, the this has grown orders of magnitude higher in complexit
 
 This includes digital media, Internet TV, edu system, websites, books etc.  Basically everything except human minds.
 
-- Human designed Information flows e.g. algorithms. Regulation.
-- Instant communication regardless geolocation.
+- Human designed information flows e.g. algorithms, regulation.
+- Instant communication independent of geolocation.
 
 
 - SIS high-level visualization.

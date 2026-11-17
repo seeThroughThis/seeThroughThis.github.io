@@ -2,6 +2,7 @@
 title: Specialised PsyOps
 nav_order: 2
 parent: Warfare
+description: Framework to analyse PsyOps on unaware population.
 ---
 
 Specialised PsyOps are conducted within extremely controlled social networks and hierarchies. These hierarchies transcends boundaries of social identities, systemic authorities etc.
@@ -21,7 +22,7 @@ All objectives are mutually inclusive.
 
 # Activity roles
 
-Attempting an explanation of roles using a lever mechanism analogy
+Attempting an explanation of roles using a lever mechanism analogy. The distinction between these roles are based on awareness of biases, influence of biases etc.
 
 ## Pivot
 
@@ -30,6 +31,7 @@ This includes an individual primary target and the target’s close social nodes
 Individuals are subject to: Extreme mental stress, induced identity crisis, mental disorders and loneliness, lifelong social isolation. Prolonged cognitive dissonance. Physical health deterioration. Inclination towards aggressive behaviour, self-harm.
 
 ## Lever
+
 Consists of a large number of people assembled in multiple social hierarchies. Potentially include public agencies.
 
 Hierarchies do not have the full picture and work in multiple isolated groups. Operated simultaneously, sequentially.
@@ -44,7 +46,9 @@ Self-sustained behaviour after the initial phase, easy to assemble new hierarchi
 
 ## Orchestrators
 
-Orchs are like an acting force on the lever and the ones who devise plans and initiate execution. High awareness about actual truths, social systems, cognitive/psy war tactics and human biases, hence in a position to abuse and exploit unaware people.
+Orchs are like an acting force on the lever and the ones who devise plans and initiate execution. 
+
+Highly aware about actual truths, social systems, cognitive/psy war tactics and human biases, hence in a position to abuse and exploit unaware people.
 
 Responsible for manufacturing moral high ground, social truths to initiate a psyop. Have a full picture of the operation.
 
@@ -52,7 +56,7 @@ Responsible for selecting pivot based on geolocational identity design and pivot
 
 Weaponisation of psychology is not widely acknowledged, enabling such social entities to engage in covert ops without checks and balances.
 
-Most likely a network of individuals spanning various power structures across various identities.
+Most likely a network of individuals spanning various power structures/systemic authorities across various identities.
 
 
 <p>
